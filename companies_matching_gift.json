@@ -1,0 +1,5560 @@
+{
+    "companies": [
+        {
+            "name": "List of Companies with Matching Gift Programs",
+            "match": true
+        },
+        {
+            "name": "A                                                      A",
+            "match": true
+        },
+        {
+            "name": "3Com Corporation                                      AlliedSignal Inc.",
+            "match": true
+        },
+        {
+            "name": "3M Company                                            Allstate Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Abacus Capital Investments                            Allstate Giving Campaign",
+            "match": true
+        },
+        {
+            "name": "Abbot Laboratories                                    Altera Corp. Contributions",
+            "match": true
+        },
+        {
+            "name": "Accenture Foundation, Inc.                            Program",
+            "match": true
+        },
+        {
+            "name": "Access Fund                                           Altria Employee Involvement",
+            "match": true
+        },
+        {
+            "name": "ACE INA Foundation                                    Programs",
+            "match": true
+        },
+        {
+            "name": "Adams Harkness and Hill Inc.                          Altria Group",
+            "match": true
+        },
+        {
+            "name": "Adaptec Foundation                                    AMBAC Indemnity",
+            "match": true
+        },
+        {
+            "name": "ADC Foundation                                         Corporation",
+            "match": true
+        },
+        {
+            "name": "ADC Telecommunications                                 AMD Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Adobe Systems Inc.                                      Program",
+            "match": true
+        },
+        {
+            "name": "ADP Foundation                                          American Express Co.",
+            "match": true
+        },
+        {
+            "name": "A & E Television Networks                              American Express",
+            "match": true
+        },
+        {
+            "name": "AEGON TRANSAMERICA                                     FOUNDATION",
+            "match": true
+        },
+        {
+            "name": "AEP                                                    AMERICAN EXPRESS",
+            "match": true
+        },
+        {
+            "name": "AES Corporation                                        Gift Matching Program",
+            "match": true
+        },
+        {
+            "name": "A.E. Staley Manufacturing Co.                          American Fidelity Corp.",
+            "match": true
+        },
+        {
+            "name": "Aetna Foundation, Inc.                                 American General Corp.",
+            "match": true
+        },
+        {
+            "name": "AG Communications Systems                              American Honda Motor Co.",
+            "match": true
+        },
+        {
+            "name": "Agilent Technologies                                   Inc.",
+            "match": true
+        },
+        {
+            "name": "Aid Association for Lutherans                          American Inter Group",
+            "match": true
+        },
+        {
+            "name": "AIG Matching Grants Program                            American International",
+            "match": true
+        },
+        {
+            "name": "Aileen S. Andrew Foundation                            Group, Inc.",
+            "match": true
+        },
+        {
+            "name": "AIM Foundation                                         American National Bank",
+            "match": true
+        },
+        {
+            "name": "Air Liquide America Corporation                        and Trust Co. of Chicago",
+            "match": true
+        },
+        {
+            "name": "Air Products and Chemicals Inc.                         American Standard",
+            "match": true
+        },
+        {
+            "name": "Albemarle Corp.                                         Foundation",
+            "match": true
+        },
+        {
+            "name": "Alco Standard Fdn.                                     American Stock Exchange",
+            "match": true
+        },
+        {
+            "name": "AlCOA Foundation                                       Ameriprise Financial",
+            "match": true
+        },
+        {
+            "name": "Alexander and Baldwin Inc.                              Ameritech Corp.",
+            "match": true
+        },
+        {
+            "name": "Alexander and Baldwin Foundation                        Amgen Center",
+            "match": true
+        },
+        {
+            "name": "Alexander Haas Martin and Partners                      Amgen Foundation",
+            "match": true
+        },
+        {
+            "name": "Alexander Hamilton Life                                  Amgen Inc.",
+            "match": true
+        },
+        {
+            "name": "Allegro Microsystems Inc.                               AMN Healthcare Services,",
+            "match": true
+        },
+        {
+            "name": "Allegiance Corp. and Baxter International                Inc. Corp. Giving Program",
+            "match": true
+        },
+        {
+            "name": "Allendale Insurance Foundation                           AmSouth BanCorp.",
+            "match": true
+        },
+        {
+            "name": "Allendale Mutual Insurance Co.                           Foundation",
+            "match": true
+        },
+        {
+            "name": "AllianceBernstein                                         AMSTED Industries Inc.",
+            "match": true
+        },
+        {
+            "name": "Alliance Capital Management L.P.                         Amylin Pharmaceuticals,",
+            "match": true
+        },
+        {
+            "name": "Alliance Coal LLC                                       Inc. Corp. Giving Program",
+            "match": true
+        },
+        {
+            "name": "Alliant Techsystems                                     Anadarko Petroleum Corp.",
+            "match": true
+        },
+        {
+            "name": "Analog Devices                         Avon Matching Gifts",
+            "match": true
+        },
+        {
+            "name": "Analytics Operations Engineering       Program",
+            "match": true
+        },
+        {
+            "name": "Analog Devices Inc.                    Avon Products Foundation,",
+            "match": true
+        },
+        {
+            "name": "Anchor/Russell Capital Advisors Inc.   Inc.",
+            "match": true
+        },
+        {
+            "name": "Andersons Inc.                         Axa Foundation",
+            "match": true
+        },
+        {
+            "name": "Andrea Frankel Allen Charities",
+            "match": true
+        },
+        {
+            "name": "Anheuser-Busch Foundation",
+            "match": true
+        },
+        {
+            "name": "AOL Time Warner Foundation",
+            "match": true
+        },
+        {
+            "name": "Aon Corporation",
+            "match": true
+        },
+        {
+            "name": "Apache Corporation",
+            "match": true
+        },
+        {
+            "name": "Apple Computer Inc.",
+            "match": true
+        },
+        {
+            "name": "Applera Corporation",
+            "match": true
+        },
+        {
+            "name": "Applied Materials Foundation, The",
+            "match": true
+        },
+        {
+            "name": "APS",
+            "match": true
+        },
+        {
+            "name": "Aquila, Inc.",
+            "match": true
+        },
+        {
+            "name": "Archer Daniels Midland",
+            "match": true
+        },
+        {
+            "name": "ARCO Chemical Co.",
+            "match": true
+        },
+        {
+            "name": "Ares Advanced Technology",
+            "match": true
+        },
+        {
+            "name": "Ares Management LLC",
+            "match": true
+        },
+        {
+            "name": "Argonaut Group Inc.                     .",
+            "match": true
+        },
+        {
+            "name": "Aristokraft Inc.",
+            "match": true
+        },
+        {
+            "name": "Arkansas Best Corporation",
+            "match": true
+        },
+        {
+            "name": "Arkwright Mutual Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "Armco Inc.",
+            "match": true
+        },
+        {
+            "name": "Armstrong Foundation",
+            "match": true
+        },
+        {
+            "name": "Arthur J. Gallagher",
+            "match": true
+        },
+        {
+            "name": "Ashland Oil Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Aspect Global Giving Program",
+            "match": true
+        },
+        {
+            "name": "Aspect Telecommunications",
+            "match": true
+        },
+        {
+            "name": "Associates Corp. of North America",
+            "match": true
+        },
+        {
+            "name": "Astra Merck Inc.",
+            "match": true
+        },
+        {
+            "name": "AstraZeneca Pharmaceutical LP",
+            "match": true
+        },
+        {
+            "name": "Atapco",
+            "match": true
+        },
+        {
+            "name": "ATK Foundation",
+            "match": true
+        },
+        {
+            "name": "Atlantic Data Services Inc.",
+            "match": true
+        },
+        {
+            "name": "Atochem North America Foundation",
+            "match": true
+        },
+        {
+            "name": "ATOFINA Chemicals, Inc.",
+            "match": true
+        },
+        {
+            "name": "ATO FINA Pharmaceutical Foundation",
+            "match": true
+        },
+        {
+            "name": "AT &T",
+            "match": true
+        },
+        {
+            "name": "AT&T Communications Systems",
+            "match": true
+        },
+        {
+            "name": "AT&T Foundation",
+            "match": true
+        },
+        {
+            "name": "Autodesk Inc.",
+            "match": true
+        },
+        {
+            "name": "Automatic Data Processing, Inc.",
+            "match": true
+        },
+        {
+            "name": "Avaya Communication",
+            "match": true
+        },
+        {
+            "name": "Avery Dennison Foundation",
+            "match": true
+        },
+        {
+            "name": "Avnet, Inc.",
+            "match": true
+        },
+        {
+            "name": "B",
+            "match": true
+        },
+        {
+            "name": "Baker Hughes Foundation",
+            "match": true
+        },
+        {
+            "name": "Ball Corporation",
+            "match": true
+        },
+        {
+            "name": "Banc One Foundation",
+            "match": true
+        },
+        {
+            "name": "Bank Boston",
+            "match": true
+        },
+        {
+            "name": "Bank of America",
+            "match": true
+        },
+        {
+            "name": "Bank of America Corporation",
+            "match": true
+        },
+        {
+            "name": "Bank of America Foundation",
+            "match": true
+        },
+        {
+            "name": "Bank of America N.A.",
+            "match": true
+        },
+        {
+            "name": "Bank of Tokyo-Mitsubishi",
+            "match": true
+        },
+        {
+            "name": "Bank One NA",
+            "match": true
+        },
+        {
+            "name": "Bankers Trust Corporation",
+            "match": true
+        },
+        {
+            "name": "Bankers Trust Foundation",
+            "match": true
+        },
+        {
+            "name": "Banta Corp. Foundations Inc.",
+            "match": true
+        },
+        {
+            "name": "Barber-Colman Co.",
+            "match": true
+        },
+        {
+            "name": "Barrick Goldstrike Mines Inc.",
+            "match": true
+        },
+        {
+            "name": "BASF Corporation",
+            "match": true
+        },
+        {
+            "name": "Baughman Company PA",
+            "match": true
+        },
+        {
+            "name": "BAX Global",
+            "match": true
+        },
+        {
+            "name": "Baxter Allegiance Foundation",
+            "match": true
+        },
+        {
+            "name": "Baxter International Foundation",
+            "match": true
+        },
+        {
+            "name": "Bay Networks",
+            "match": true
+        },
+        {
+            "name": "Bearingpoint Charitable Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Bechtel Foundation",
+            "match": true
+        },
+        {
+            "name": "Bechtel Group Foundation",
+            "match": true
+        },
+        {
+            "name": "Beckman Coulter, Inc. Corporate Giving Program",
+            "match": true
+        },
+        {
+            "name": "Beckton Dickenson",
+            "match": true
+        },
+        {
+            "name": "Becton-Dickinson Corp.",
+            "match": true
+        },
+        {
+            "name": "Belden Wire and Cable Co.",
+            "match": true
+        },
+        {
+            "name": "Bell Atlantic Corp.",
+            "match": true
+        },
+        {
+            "name": "Bell & Howell Foundation",
+            "match": true
+        },
+        {
+            "name": "BellSouth",
+            "match": true
+        },
+        {
+            "name": "Bemis Associates Inc.",
+            "match": true
+        },
+        {
+            "name": "BeneTemps Inc.",
+            "match": true
+        },
+        {
+            "name": "Berkshire Mortgage Finance Bethesda LP",
+            "match": true
+        },
+        {
+            "name": "Bernstein Real Estate Co.",
+            "match": true
+        },
+        {
+            "name": "Bestfoods",
+            "match": true
+        },
+        {
+            "name": "BFGoodrich Co.",
+            "match": true
+        },
+        {
+            "name": "Bill and Melinda Gates Foundation",
+            "match": true
+        },
+        {
+            "name": "Binney and Smith Inc.",
+            "match": true
+        },
+        {
+            "name": "Biogen Idec Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Bituminous Casualty Corp.",
+            "match": true
+        },
+        {
+            "name": "BKD LLP",
+            "match": true
+        },
+        {
+            "name": "Black and Decker",
+            "match": true
+        },
+        {
+            "name": "Black and Decker Corporation",
+            "match": true
+        },
+        {
+            "name": "Blockbuster Inc.",
+            "match": true
+        },
+        {
+            "name": "Blount Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "BMC Industries, Inc.",
+            "match": true
+        },
+        {
+            "name": "Boeing Co.",
+            "match": true
+        },
+        {
+            "name": "Boeing Company Contributions Program, The",
+            "match": true
+        },
+        {
+            "name": "Boeing Employees Community Fund",
+            "match": true
+        },
+        {
+            "name": "Bonneville International Corp.",
+            "match": true
+        },
+        {
+            "name": "Booz Allen Hamilton",
+            "match": true
+        },
+        {
+            "name": "Borden Family of Cos.",
+            "match": true
+        },
+        {
+            "name": "Boston Edison Co.",
+            "match": true
+        },
+        {
+            "name": "Boston Gear",
+            "match": true
+        },
+        {
+            "name": "B.P. American, Inc.",
+            "match": true
+        },
+        {
+            "name": "BP Amoco Corporation",
+            "match": true
+        },
+        {
+            "name": "BP Corporation North America Inc.",
+            "match": true
+        },
+        {
+            "name": "BP Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Brady Corporation",
+            "match": true
+        },
+        {
+            "name": "Brakeley, John Price Jones Inc.",
+            "match": true
+        },
+        {
+            "name": "Bridgestone/Firestone Trust Fund",
+            "match": true
+        },
+        {
+            "name": "Brinks Home Security, Inc.",
+            "match": true
+        },
+        {
+            "name": "Bristol-Myers Squibb Foundation",
+            "match": true
+        },
+        {
+            "name": "Brown Group, Inc.",
+            "match": true
+        },
+        {
+            "name": "Brown & Williamson Tobacco Corporation",
+            "match": true
+        },
+        {
+            "name": "Bunge Corporation",
+            "match": true
+        },
+        {
+            "name": "Burlington Air Express",
+            "match": true
+        },
+        {
+            "name": "Burlington Industries, Inc.",
+            "match": true
+        },
+        {
+            "name": "Burlington N Rail Rd.",
+            "match": true
+        },
+        {
+            "name": "Business & Legal Reports Inc.",
+            "match": true
+        },
+        {
+            "name": "Butler Manufacturing Co.",
+            "match": true
+        },
+        {
+            "name": "Butlington Northern Santa Fe",
+            "match": true
+        },
+        {
+            "name": "C",
+            "match": true
+        },
+        {
+            "name": "Cable and Wireless",
+            "match": true
+        },
+        {
+            "name": "Cabot Corp Foundation",
+            "match": true
+        },
+        {
+            "name": "Cabot Oil & Gas Corporation",
+            "match": true
+        },
+        {
+            "name": "Caddence Design Systems Inc.",
+            "match": true
+        },
+        {
+            "name": "California Community Foundation",
+            "match": true
+        },
+        {
+            "name": "California Endowment, The",
+            "match": true
+        },
+        {
+            "name": "California Wellness Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Callaway Golf Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Caltex Petroleum Corp.",
+            "match": true
+        },
+        {
+            "name": "CambridgeSoft",
+            "match": true
+        },
+        {
+            "name": "CAN",
+            "match": true
+        },
+        {
+            "name": "Candle Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Capital Group Companies, Inc.",
+            "match": true
+        },
+        {
+            "name": "Capital Group Inc.",
+            "match": true
+        },
+        {
+            "name": "Cardinal Health Foundation",
+            "match": true
+        },
+        {
+            "name": "Cargill",
+            "match": true
+        },
+        {
+            "name": "Carillon Point",
+            "match": true
+        },
+        {
+            "name": "Carl M. Freeman Golf",
+            "match": true
+        },
+        {
+            "name": "Carnegie Corporation of New York",
+            "match": true
+        },
+        {
+            "name": "Carolina Power & Light Co.",
+            "match": true
+        },
+        {
+            "name": "Casey Foundation, Margueritte",
+            "match": true
+        },
+        {
+            "name": "Caterpillar Foundation",
+            "match": true
+        },
+        {
+            "name": "Caterpillar Inc.",
+            "match": true
+        },
+        {
+            "name": "Caterpillar Tractor Co.",
+            "match": true
+        },
+        {
+            "name": "CBS Foundation Inc.",
+            "match": true
+        },
+        {
+            "name": "CBS Inc.",
+            "match": true
+        },
+        {
+            "name": "CBS/Westinghouse Foundation",
+            "match": true
+        },
+        {
+            "name": "CCB Foundation",
+            "match": true
+        },
+        {
+            "name": "Centre Insurance Company",
+            "match": true
+        },
+        {
+            "name": "CertainTeed Corp.",
+            "match": true
+        },
+        {
+            "name": "CertainTeed Corporation Foundation",
+            "match": true
+        },
+        {
+            "name": "CertCo, Inc.",
+            "match": true
+        },
+        {
+            "name": "Cessna Foundation",
+            "match": true
+        },
+        {
+            "name": "Champion International Corp.",
+            "match": true
+        },
+        {
+            "name": "Charles River Laboratories Inc.",
+            "match": true
+        },
+        {
+            "name": "Charles Schwab Corporation Foundation",
+            "match": true
+        },
+        {
+            "name": "Charles Schwab & Co. Inc. and",
+            "match": true
+        },
+        {
+            "name": "Subsidiaries",
+            "match": true
+        },
+        {
+            "name": "Charles Stewart Mott Foundation",
+            "match": true
+        },
+        {
+            "name": "Chase Manhattan Bank",
+            "match": true
+        },
+        {
+            "name": "Chase Manhattan Corp.",
+            "match": true
+        },
+        {
+            "name": "Chase Manhattan Foundation",
+            "match": true
+        },
+        {
+            "name": "Cheney Foundation, Ben B.",
+            "match": true
+        },
+        {
+            "name": "Chesapeake Corporation Foundation",
+            "match": true
+        },
+        {
+            "name": "Chesebrough-Pond\u2019s USA",
+            "match": true
+        },
+        {
+            "name": "Chevron Corp",
+            "match": true
+        },
+        {
+            "name": "Chevron Matching Gift Program",
+            "match": true
+        },
+        {
+            "name": "Chevron Phillips Chemical Company",
+            "match": true
+        },
+        {
+            "name": "LP",
+            "match": true
+        },
+        {
+            "name": "ChevronTexaco Corporation",
+            "match": true
+        },
+        {
+            "name": "Chicago Title and Trust Co.",
+            "match": true
+        },
+        {
+            "name": "Children\u2019s Foundation",
+            "match": true
+        },
+        {
+            "name": "ChOC Foundation",
+            "match": true
+        },
+        {
+            "name": "Choice Hotels International",
+            "match": true
+        },
+        {
+            "name": "ChoicePoint, Inc.",
+            "match": true
+        },
+        {
+            "name": "Chrysler Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Chubb Group of Insurance Companies",
+            "match": true
+        },
+        {
+            "name": "Chubb and Son",
+            "match": true
+        },
+        {
+            "name": "Church & Dwight Company Inc.",
+            "match": true
+        },
+        {
+            "name": "Ciba Corning Diags",
+            "match": true
+        },
+        {
+            "name": "CIENA",
+            "match": true
+        },
+        {
+            "name": "CIGNA Corp.",
+            "match": true
+        },
+        {
+            "name": "CIGNA Foundation",
+            "match": true
+        },
+        {
+            "name": "Cimarex Energy Company",
+            "match": true
+        },
+        {
+            "name": "Cingular Wireless",
+            "match": true
+        },
+        {
+            "name": "Circuit City Foundation",
+            "match": true
+        },
+        {
+            "name": "Circuit City Stores, Inc.",
+            "match": true
+        },
+        {
+            "name": "Cisco Systems",
+            "match": true
+        },
+        {
+            "name": "Citgo Petroleum",
+            "match": true
+        },
+        {
+            "name": "CITGO Petroleum Corp.",
+            "match": true
+        },
+        {
+            "name": "Citibank/Citycorp",
+            "match": true
+        },
+        {
+            "name": "Citibank NA",
+            "match": true
+        },
+        {
+            "name": "Citicorp Foundation",
+            "match": true
+        },
+        {
+            "name": "Citigroup Foundation",
+            "match": true
+        },
+        {
+            "name": "Clairborne Foundation, Liz",
+            "match": true
+        },
+        {
+            "name": "Clariant Corp.",
+            "match": true
+        },
+        {
+            "name": "Clorox",
+            "match": true
+        },
+        {
+            "name": "Clorox Company Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Club Corp. International",
+            "match": true
+        },
+        {
+            "name": "C.M. Capital Foundation",
+            "match": true
+        },
+        {
+            "name": "CAN Foundation",
+            "match": true
+        },
+        {
+            "name": "COACH",
+            "match": true
+        },
+        {
+            "name": "Coca-Cola Co.",
+            "match": true
+        },
+        {
+            "name": "Codding Foundation",
+            "match": true
+        },
+        {
+            "name": "Coleman Company",
+            "match": true
+        },
+        {
+            "name": "Colgate-Palmolive Co.",
+            "match": true
+        },
+        {
+            "name": "Colonial Management Association, Inc.",
+            "match": true
+        },
+        {
+            "name": "Colonial Management Group",
+            "match": true
+        },
+        {
+            "name": "Colonial Pipeline Company",
+            "match": true
+        },
+        {
+            "name": "Columbus Life Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "Commercial Federal Bank",
+            "match": true
+        },
+        {
+            "name": "Commonwealth Fund",
+            "match": true
+        },
+        {
+            "name": "Community First Bank Shares Inc.",
+            "match": true
+        },
+        {
+            "name": "Community First Technologies Inc.",
+            "match": true
+        },
+        {
+            "name": "Compaq Computer Corporation",
+            "match": true
+        },
+        {
+            "name": "Components Corp. of America",
+            "match": true
+        },
+        {
+            "name": "Computer Associates",
+            "match": true
+        },
+        {
+            "name": "Computer Associates International, Inc.",
+            "match": true
+        },
+        {
+            "name": "Computer Network Technology Corp.",
+            "match": true
+        },
+        {
+            "name": "ComputerWorld",
+            "match": true
+        },
+        {
+            "name": "COMSAT Corp.",
+            "match": true
+        },
+        {
+            "name": "ConAgra Foods Foundation",
+            "match": true
+        },
+        {
+            "name": "Conexant Systems, Inc. Corporate",
+            "match": true
+        },
+        {
+            "name": "Giving Program",
+            "match": true
+        },
+        {
+            "name": "Conoco Inc.",
+            "match": true
+        },
+        {
+            "name": "ConocoPhillips Company",
+            "match": true
+        },
+        {
+            "name": "CONRAIL Inc.",
+            "match": true
+        },
+        {
+            "name": "Consolidated Natural Gas Co.",
+            "match": true
+        },
+        {
+            "name": "Consolidated Papers Inc.",
+            "match": true
+        },
+        {
+            "name": "Constellation Energy Group",
+            "match": true
+        },
+        {
+            "name": "Consulting Partners Inc.",
+            "match": true
+        },
+        {
+            "name": "Consumer Electronics Association",
+            "match": true
+        },
+        {
+            "name": "Consumers Energy Foundation",
+            "match": true
+        },
+        {
+            "name": "Converium Reinsurance (North America)",
+            "match": true
+        },
+        {
+            "name": "Inc.",
+            "match": true
+        },
+        {
+            "name": "Cooper Industries",
+            "match": true
+        },
+        {
+            "name": "Cooper Industries Foundation",
+            "match": true
+        },
+        {
+            "name": "Cooper Tire & Rubber Co.",
+            "match": true
+        },
+        {
+            "name": "Copley Foundation, Helen K.",
+            "match": true
+        },
+        {
+            "name": "And James S.",
+            "match": true
+        },
+        {
+            "name": "Corning Inc.",
+            "match": true
+        },
+        {
+            "name": "Corn Products International",
+            "match": true
+        },
+        {
+            "name": "Corporate Communications",
+            "match": true
+        },
+        {
+            "name": "Corporate Community Affairs",
+            "match": true
+        },
+        {
+            "name": "Corporate Software, Inc.",
+            "match": true
+        },
+        {
+            "name": "Corporate Software and Technology",
+            "match": true
+        },
+        {
+            "name": "Countrywide Credit Industries, Inc.",
+            "match": true
+        },
+        {
+            "name": "Countrywide Home Loans, Inc.",
+            "match": true
+        },
+        {
+            "name": "Corporate Giving Program",
+            "match": true
+        },
+        {
+            "name": "CPI Corporation",
+            "match": true
+        },
+        {
+            "name": "C.R. Bard, Inc.",
+            "match": true
+        },
+        {
+            "name": "Crail-Johnson Foundation",
+            "match": true
+        },
+        {
+            "name": "Cranston Printworks Co.",
+            "match": true
+        },
+        {
+            "name": "Cray Research",
+            "match": true
+        },
+        {
+            "name": "Creative Strategy, Inc.",
+            "match": true
+        },
+        {
+            "name": "Credit Agricole Indosuez",
+            "match": true
+        },
+        {
+            "name": "Credit Suisse",
+            "match": true
+        },
+        {
+            "name": "Crestar Financial Corp.",
+            "match": true
+        },
+        {
+            "name": "CSC Index, Inc.",
+            "match": true
+        },
+        {
+            "name": "CSX Corporation",
+            "match": true
+        },
+        {
+            "name": "Cyprus Amax Minerals Co.",
+            "match": true
+        },
+        {
+            "name": "D",
+            "match": true
+        },
+        {
+            "name": "DaimlerChrysler Corporation Fund",
+            "match": true
+        },
+        {
+            "name": "Dain Rauscher",
+            "match": true
+        },
+        {
+            "name": "Danforth Foundation",
+            "match": true
+        },
+        {
+            "name": "Dannon",
+            "match": true
+        },
+        {
+            "name": "Datascope Corporation",
+            "match": true
+        },
+        {
+            "name": "Datatel",
+            "match": true
+        },
+        {
+            "name": "Davey Company Foundation, The",
+            "match": true
+        },
+        {
+            "name": "David L. Babson and Co. Inc.",
+            "match": true
+        },
+        {
+            "name": "Dean Witter Discover",
+            "match": true
+        },
+        {
+            "name": "DEKALB Genetics Corp.",
+            "match": true
+        },
+        {
+            "name": "Del Monte Foods",
+            "match": true
+        },
+        {
+            "name": "Deloitte Foundation",
+            "match": true
+        },
+        {
+            "name": "Delta Airlines Foundation",
+            "match": true
+        },
+        {
+            "name": "Deluxe Corp.",
+            "match": true
+        },
+        {
+            "name": "Demont & Associates Inc.",
+            "match": true
+        },
+        {
+            "name": "Detroit Edison Co.",
+            "match": true
+        },
+        {
+            "name": "Deutsche Bank Americas Foundation",
+            "match": true
+        },
+        {
+            "name": "Deutsche Bank NA",
+            "match": true
+        },
+        {
+            "name": "Devon Energy Corporation",
+            "match": true
+        },
+        {
+            "name": "DFS Group Ltd.",
+            "match": true
+        },
+        {
+            "name": "Diageo Global Business Support",
+            "match": true
+        },
+        {
+            "name": "Diageo North America",
+            "match": true
+        },
+        {
+            "name": "Dictaphone Corp.",
+            "match": true
+        },
+        {
+            "name": "Digital Equipment",
+            "match": true
+        },
+        {
+            "name": "Disney Company Foundation, Walt, The",
+            "match": true
+        },
+        {
+            "name": "Dominion Foundation",
+            "match": true
+        },
+        {
+            "name": "Dow AgroSciences, LLC",
+            "match": true
+        },
+        {
+            "name": "Dow Chemical Co Foundation",
+            "match": true
+        },
+        {
+            "name": "Dow Corning Corp.",
+            "match": true
+        },
+        {
+            "name": "Dow Corning Inc.",
+            "match": true
+        },
+        {
+            "name": "Dream Street Foundation",
+            "match": true
+        },
+        {
+            "name": "DST Systems Inc.",
+            "match": true
+        },
+        {
+            "name": "DTE Energy",
+            "match": true
+        },
+        {
+            "name": "Duke Energy",
+            "match": true
+        },
+        {
+            "name": "Duke Power Co.",
+            "match": true
+        },
+        {
+            "name": "DuMonde Solutions",
+            "match": true
+        },
+        {
+            "name": "Duracell International Inc.",
+            "match": true
+        },
+        {
+            "name": "Dynegy Inc.",
+            "match": true
+        },
+        {
+            "name": "E",
+            "match": true
+        },
+        {
+            "name": "East Bay Community Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Eastern Bank & Trust Co.",
+            "match": true
+        },
+        {
+            "name": "Eastern Enterprises",
+            "match": true
+        },
+        {
+            "name": "Eastern Mountain Sports",
+            "match": true
+        },
+        {
+            "name": "Eaton Charitable Fund",
+            "match": true
+        },
+        {
+            "name": "Eaton Corp.",
+            "match": true
+        },
+        {
+            "name": "Eaton Vance Management",
+            "match": true
+        },
+        {
+            "name": "eBay Inc.",
+            "match": true
+        },
+        {
+            "name": "Ecolab Foundation",
+            "match": true
+        },
+        {
+            "name": "Ecolab Inc.",
+            "match": true
+        },
+        {
+            "name": "Edison International Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Edison International Foundation",
+            "match": true
+        },
+        {
+            "name": "EEX",
+            "match": true
+        },
+        {
+            "name": "El Paso Energy Foundation",
+            "match": true
+        },
+        {
+            "name": "ELF Atochem North America Inc.",
+            "match": true
+        },
+        {
+            "name": "Eli Lilly & Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Emerson",
+            "match": true
+        },
+        {
+            "name": "Emerson Electric Co.",
+            "match": true
+        },
+        {
+            "name": "EMI Music Foundation",
+            "match": true
+        },
+        {
+            "name": "Employees Community Fund",
+            "match": true
+        },
+        {
+            "name": "Energizer Charitable Trust",
+            "match": true
+        },
+        {
+            "name": "Energizer/Eveready Battery Co.",
+            "match": true
+        },
+        {
+            "name": "Energy for Others",
+            "match": true
+        },
+        {
+            "name": "Enron Foundation",
+            "match": true
+        },
+        {
+            "name": "Ensign-Bickford Foundation",
+            "match": true
+        },
+        {
+            "name": "Entergy Corporation",
+            "match": true
+        },
+        {
+            "name": "EOG Resources",
+            "match": true
+        },
+        {
+            "name": "Equifax Community Relations",
+            "match": true
+        },
+        {
+            "name": "Equifax Inc.",
+            "match": true
+        },
+        {
+            "name": "Equistar Chemicals, LP",
+            "match": true
+        },
+        {
+            "name": "Equitable Insurance Companies, The",
+            "match": true
+        },
+        {
+            "name": "Equitable Life Assurance Society of the United States",
+            "match": true
+        },
+        {
+            "name": "Equitable Resources",
+            "match": true
+        },
+        {
+            "name": "Equiva Services LLC",
+            "match": true
+        },
+        {
+            "name": "ERE Yarmouth",
+            "match": true
+        },
+        {
+            "name": "Ericsson, Inc.",
+            "match": true
+        },
+        {
+            "name": "Erie Insurance Group",
+            "match": true
+        },
+        {
+            "name": "Ernst & Young Foundation",
+            "match": true
+        },
+        {
+            "name": "Essex Group, Inc.",
+            "match": true
+        },
+        {
+            "name": "Ethicon, Inc.",
+            "match": true
+        },
+        {
+            "name": "Everen Foundation",
+            "match": true
+        },
+        {
+            "name": "Explorer Pipeline Company",
+            "match": true
+        },
+        {
+            "name": "Express Financial Services",
+            "match": true
+        },
+        {
+            "name": "Exxon Mobil Corporation Contributions",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Exxon Mobil Foundation",
+            "match": true
+        },
+        {
+            "name": "F",
+            "match": true
+        },
+        {
+            "name": "Factory Mutual Insurance Company",
+            "match": true
+        },
+        {
+            "name": "Fair Isaac",
+            "match": true
+        },
+        {
+            "name": "Fannie Mae and the Fannie Mae Foundation",
+            "match": true
+        },
+        {
+            "name": "Farmers Group, Inc. Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Farmers Insurance Group",
+            "match": true
+        },
+        {
+            "name": "Federal Home Loan Bank/Dallas",
+            "match": true
+        },
+        {
+            "name": "Federal Home Loan Mortgage Corp.",
+            "match": true
+        },
+        {
+            "name": "Federated Department Stores Inc.",
+            "match": true
+        },
+        {
+            "name": "Feingold & Feingold Insurance",
+            "match": true
+        },
+        {
+            "name": "FGM Inc",
+            "match": true
+        },
+        {
+            "name": "Fidelity Foundation",
+            "match": true
+        },
+        {
+            "name": "Fidelity Investments Charitable Gift Fund",
+            "match": true
+        },
+        {
+            "name": "Fidelity Investments, Fdn.",
+            "match": true
+        },
+        {
+            "name": "Fiduciary Trust Company",
+            "match": true
+        },
+        {
+            "name": "Fiduciary Trust Co., Boston",
+            "match": true
+        },
+        {
+            "name": "Fieldstone Foundation, The",
+            "match": true
+        },
+        {
+            "name": "FINA Inc.",
+            "match": true
+        },
+        {
+            "name": "Fingerhut Corp.",
+            "match": true
+        },
+        {
+            "name": "Fireman's Fund Foundation",
+            "match": true
+        },
+        {
+            "name": "Fireman's Fund Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "First Bank Systems",
+            "match": true
+        },
+        {
+            "name": "First Data Corp",
+            "match": true
+        },
+        {
+            "name": "First Data Resources",
+            "match": true
+        },
+        {
+            "name": "First Energy Corp.",
+            "match": true
+        },
+        {
+            "name": "First Tennessee/First Horizon",
+            "match": true
+        },
+        {
+            "name": "First Union Foundation",
+            "match": true
+        },
+        {
+            "name": "Firststar Foundation",
+            "match": true
+        },
+        {
+            "name": "Fleet Bank",
+            "match": true
+        },
+        {
+            "name": "Flowerree Foundation",
+            "match": true
+        },
+        {
+            "name": "Fluor Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Fluor Foundation FM Global Foundation",
+            "match": true
+        },
+        {
+            "name": "FM Global Foundation",
+            "match": true
+        },
+        {
+            "name": "FMC Corp.",
+            "match": true
+        },
+        {
+            "name": "FMC Technologies",
+            "match": true
+        },
+        {
+            "name": "Focal Communications Corp",
+            "match": true
+        },
+        {
+            "name": "Follett Corporation",
+            "match": true
+        },
+        {
+            "name": "Ford Family Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Ford Matching Gift Program",
+            "match": true
+        },
+        {
+            "name": "Fort James Corp. and Subsidiaries",
+            "match": true
+        },
+        {
+            "name": "Fort James Foundation",
+            "match": true
+        },
+        {
+            "name": "Fortis Benefits",
+            "match": true
+        },
+        {
+            "name": "Fortis Financial Group",
+            "match": true
+        },
+        {
+            "name": "Fortis Health",
+            "match": true
+        },
+        {
+            "name": "Fortis Woodbury",
+            "match": true
+        },
+        {
+            "name": "Fortune Brands Inc.",
+            "match": true
+        },
+        {
+            "name": "Foundation for Educational Funding Inc.",
+            "match": true
+        },
+        {
+            "name": "Freddie Mac",
+            "match": true
+        },
+        {
+            "name": "Freddie Mac Foundation",
+            "match": true
+        },
+        {
+            "name": "Frederic W. Cook & Co. Inc.",
+            "match": true
+        },
+        {
+            "name": "Freedom Forum",
+            "match": true
+        },
+        {
+            "name": "Freeprot-McMoRan",
+            "match": true
+        },
+        {
+            "name": "Friedman Billings Ramsey & Co.",
+            "match": true
+        },
+        {
+            "name": "Fuji Bank, Ltd.",
+            "match": true
+        },
+        {
+            "name": "Fujitsu Network Comm.",
+            "match": true
+        },
+        {
+            "name": "Fuller Company Foundation, H. B.",
+            "match": true
+        },
+        {
+            "name": "Fulton Financial Corporation",
+            "match": true
+        },
+        {
+            "name": "G",
+            "match": true
+        },
+        {
+            "name": "Gallo Winery Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program, E. & J.",
+            "match": true
+        },
+        {
+            "name": "Gannett Co. Inc.",
+            "match": true
+        },
+        {
+            "name": "Gannett Foundation",
+            "match": true
+        },
+        {
+            "name": "Gap Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Gap Inc.",
+            "match": true
+        },
+        {
+            "name": "Gartner Group",
+            "match": true
+        },
+        {
+            "name": "Gartner - The Matching Gift Center",
+            "match": true
+        },
+        {
+            "name": "Gary-Williams Co./Piton Foundation",
+            "match": true
+        },
+        {
+            "name": "Gary Williams Oil Producer",
+            "match": true
+        },
+        {
+            "name": "GATX Corp.",
+            "match": true
+        },
+        {
+            "name": "GE Foundation",
+            "match": true
+        },
+        {
+            "name": "Geico",
+            "match": true
+        },
+        {
+            "name": "GEICO Philanthropic Foundation",
+            "match": true
+        },
+        {
+            "name": "GenCorp Foundation, Incorporated",
+            "match": true
+        },
+        {
+            "name": "Genentech General Physics Corporation",
+            "match": true
+        },
+        {
+            "name": "Genentech, Inc. Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "GeneralCologne Re Geo",
+            "match": true
+        },
+        {
+            "name": "General Dynmaics",
+            "match": true
+        },
+        {
+            "name": "General Mill Foundation",
+            "match": true
+        },
+        {
+            "name": "General Mills Inc.",
+            "match": true
+        },
+        {
+            "name": "General Motors Foundation",
+            "match": true
+        },
+        {
+            "name": "General Re Corp.",
+            "match": true
+        },
+        {
+            "name": "General Re Services Corporation",
+            "match": true
+        },
+        {
+            "name": "Gensler & Associates",
+            "match": true
+        },
+        {
+            "name": "Genworth Foundation",
+            "match": true
+        },
+        {
+            "name": "Geon Co.",
+            "match": true
+        },
+        {
+            "name": "Georgia-Pacific Co.",
+            "match": true
+        },
+        {
+            "name": "Georgia Power Foundation",
+            "match": true
+        },
+        {
+            "name": "Geotrace Technologies Inc",
+            "match": true
+        },
+        {
+            "name": "Gerber Products Co.",
+            "match": true
+        },
+        {
+            "name": "Gerling Global Reinsurance Corp. of America",
+            "match": true
+        },
+        {
+            "name": "Getty Trust, J. Paul",
+            "match": true
+        },
+        {
+            "name": "Giddings & Lewis Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Gillette Co.",
+            "match": true
+        },
+        {
+            "name": "Gillette Company, The",
+            "match": true
+        },
+        {
+            "name": "Gilman Paper Co.",
+            "match": true
+        },
+        {
+            "name": "GKN Foundation",
+            "match": true
+        },
+        {
+            "name": "GlaxoSmithKline",
+            "match": true
+        },
+        {
+            "name": "GlaxoSmithKline Foundation",
+            "match": true
+        },
+        {
+            "name": "Glaxo Wellcome inc.",
+            "match": true
+        },
+        {
+            "name": "Glenmede Corp.",
+            "match": true
+        },
+        {
+            "name": "Global Impact/Countrywide Financial Corporation",
+            "match": true
+        },
+        {
+            "name": "Globe Newspaper Co. and Subsidiaries",
+            "match": true
+        },
+        {
+            "name": "GMAC - RFC",
+            "match": true
+        },
+        {
+            "name": "Gnat Inc.",
+            "match": true
+        },
+        {
+            "name": "Goldman Fund, Richard and Rhoda",
+            "match": true
+        },
+        {
+            "name": "Goodrich Corporation",
+            "match": true
+        },
+        {
+            "name": "Goodyear Tire & Rubber Co.",
+            "match": true
+        },
+        {
+            "name": "Google",
+            "match": true
+        },
+        {
+            "name": "Grainger Company, The",
+            "match": true
+        },
+        {
+            "name": "Grainger Inc",
+            "match": true
+        },
+        {
+            "name": "Grainger Matching Gifts",
+            "match": true
+        },
+        {
+            "name": "Grand Canyon Association",
+            "match": true
+        },
+        {
+            "name": "Grant Thornton Foundation",
+            "match": true
+        },
+        {
+            "name": "Grantham Mayo Van Otterloo & Co., LLC",
+            "match": true
+        },
+        {
+            "name": "Graphics Controls Corp.",
+            "match": true
+        },
+        {
+            "name": "Graybar Electric Foundation",
+            "match": true
+        },
+        {
+            "name": "GreenPoint Bank",
+            "match": true
+        },
+        {
+            "name": "GreenPoint Financial",
+            "match": true
+        },
+        {
+            "name": "Grenzebach Glier & Associates Inc.",
+            "match": true
+        },
+        {
+            "name": "Grinnell Mutual Reinsurance Co.",
+            "match": true
+        },
+        {
+            "name": "GTE Foundation",
+            "match": true
+        },
+        {
+            "name": "Guardian Life Insurance Company",
+            "match": true
+        },
+        {
+            "name": "Guidant Corp.",
+            "match": true
+        },
+        {
+            "name": "Guidant Foundation",
+            "match": true
+        },
+        {
+            "name": "H",
+            "match": true
+        },
+        {
+            "name": "H & R Block Inc.",
+            "match": true
+        },
+        {
+            "name": "Haas Fund, Walter and Elise",
+            "match": true
+        },
+        {
+            "name": "Haas, Jr. Fund, Evelyn and Walter",
+            "match": true
+        },
+        {
+            "name": "Haemonetics Corp.",
+            "match": true
+        },
+        {
+            "name": "Halliburton Energy Services",
+            "match": true
+        },
+        {
+            "name": "Halliburton Foundation Inc",
+            "match": true
+        },
+        {
+            "name": "Hallmark Corporation Foundation",
+            "match": true
+        },
+        {
+            "name": "Hambrecht & Quist Group",
+            "match": true
+        },
+        {
+            "name": "Hambrecht & Quist, LLC",
+            "match": true
+        },
+        {
+            "name": "Hampton and Harper Inc.",
+            "match": true
+        },
+        {
+            "name": "Hannah M.A. Co.",
+            "match": true
+        },
+        {
+            "name": "Hanover Capital",
+            "match": true
+        },
+        {
+            "name": "Harcourt General Inc.",
+            "match": true
+        },
+        {
+            "name": "Harley-Davidson Motor Company",
+            "match": true
+        },
+        {
+            "name": "Harrah's Entertainment Inc.",
+            "match": true
+        },
+        {
+            "name": "Harris Trust & Savings Bank: Harris Bankcorp",
+            "match": true
+        },
+        {
+            "name": "Hartford Insurance Group",
+            "match": true
+        },
+        {
+            "name": "Hartford Steam Boiler Inspection and Insurance Co. - HSB Group Inc.",
+            "match": true
+        },
+        {
+            "name": "Hawaiian Electric Industries Inc.",
+            "match": true
+        },
+        {
+            "name": "Hazen Foundation, Inc., Edward W., The",
+            "match": true
+        },
+        {
+            "name": "HB Fuller Foundation",
+            "match": true
+        },
+        {
+            "name": "Heinz H.J. Co.",
+            "match": true
+        },
+        {
+            "name": "Heller Financial Inc.",
+            "match": true
+        },
+        {
+            "name": "Hemmings Motor News",
+            "match": true
+        },
+        {
+            "name": "Henry Luce Foundation",
+            "match": true
+        },
+        {
+            "name": "Heron Foundation, F. B., The",
+            "match": true
+        },
+        {
+            "name": "Hess Corporation",
+            "match": true
+        },
+        {
+            "name": "Heublein Foundation Inc.",
+            "match": true
+        },
+        {
+            "name": "Hewitt Associates",
+            "match": true
+        },
+        {
+            "name": "Hewlett Foundation, William and Flora,",
+            "match": true
+        },
+        {
+            "name": "The",
+            "match": true
+        },
+        {
+            "name": "Hewlett-Packard Company",
+            "match": true
+        },
+        {
+            "name": "Hibernia National Bank",
+            "match": true
+        },
+        {
+            "name": "Higher Education Publications Inc.",
+            "match": true
+        },
+        {
+            "name": "Highmark Blue Cross/Blue Shield",
+            "match": true
+        },
+        {
+            "name": "Hillman Co.",
+            "match": true
+        },
+        {
+            "name": "Hill's Pet Nutrition Inc",
+            "match": true
+        },
+        {
+            "name": "Hoechst Celanese",
+            "match": true
+        },
+        {
+            "name": "Hoechst Celanese Foundation",
+            "match": true
+        },
+        {
+            "name": "Hoechst Marion Roussel Inc",
+            "match": true
+        },
+        {
+            "name": "Hofmann Foundation, K. H.",
+            "match": true
+        },
+        {
+            "name": "Holyoke Mutual Insurance Co. in Salem",
+            "match": true
+        },
+        {
+            "name": "Home Depot",
+            "match": true
+        },
+        {
+            "name": "Home Depot Foundation",
+            "match": true
+        },
+        {
+            "name": "Home Loans First Tennessee Matching Gift Program",
+            "match": true
+        },
+        {
+            "name": "Home Savings of America",
+            "match": true
+        },
+        {
+            "name": "Honeywell Foundation",
+            "match": true
+        },
+        {
+            "name": "Honeywell Inc.",
+            "match": true
+        },
+        {
+            "name": "Hormel Foods Corporation",
+            "match": true
+        },
+        {
+            "name": "Hospira Foundation",
+            "match": true
+        },
+        {
+            "name": "Hospitality Franchise Systems",
+            "match": true
+        },
+        {
+            "name": "Houghton Chemical Corp.",
+            "match": true
+        },
+        {
+            "name": "Houghton Mifflin Co.",
+            "match": true
+        },
+        {
+            "name": "Household International Inc.",
+            "match": true
+        },
+        {
+            "name": "Holyoke Mutual Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "HP",
+            "match": true
+        },
+        {
+            "name": "HRTek Corp.",
+            "match": true
+        },
+        {
+            "name": "HSBC",
+            "match": true
+        },
+        {
+            "name": "HSBC Bank USA, N.A. Corporate",
+            "match": true
+        },
+        {
+            "name": "Giving Program",
+            "match": true
+        },
+        {
+            "name": "HSBC\u2014North America",
+            "match": true
+        },
+        {
+            "name": "Hub Distributing, Incorporated",
+            "match": true
+        },
+        {
+            "name": "Huck International Inc. and Cordant Technologies Inc.",
+            "match": true
+        },
+        {
+            "name": "Hudson Webber Foundation",
+            "match": true
+        },
+        {
+            "name": "Hypo Real Estate Corporation",
+            "match": true
+        },
+        {
+            "name": "I",
+            "match": true
+        },
+        {
+            "name": "IBM Corporation",
+            "match": true
+        },
+        {
+            "name": "IBM International Foundation",
+            "match": true
+        },
+        {
+            "name": "IBM Matching Grant Program",
+            "match": true
+        },
+        {
+            "name": "IDS Financial Services, Inc.",
+            "match": true
+        },
+        {
+            "name": "IKON Office Solutions",
+            "match": true
+        },
+        {
+            "name": "IKOS Systems",
+            "match": true
+        },
+        {
+            "name": "Illinois Tool Works Inc.",
+            "match": true
+        },
+        {
+            "name": "Independence Investment Associates Inc.",
+            "match": true
+        },
+        {
+            "name": "Industrial Bank of Japan, Ltd.",
+            "match": true
+        },
+        {
+            "name": "Industrial Indemnity",
+            "match": true
+        },
+        {
+            "name": "IndyMac Bancorp Inc.",
+            "match": true
+        },
+        {
+            "name": "Information Technology Systems",
+            "match": true
+        },
+        {
+            "name": "ING Capital Holdings",
+            "match": true
+        },
+        {
+            "name": "ING Foundation",
+            "match": true
+        },
+        {
+            "name": "Ingram Micro Inc. Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Institutional Investor, Inc.",
+            "match": true
+        },
+        {
+            "name": "Instron Corp.",
+            "match": true
+        },
+        {
+            "name": "Insurance Service Office Inc",
+            "match": true
+        },
+        {
+            "name": "Intel Corporation",
+            "match": true
+        },
+        {
+            "name": "Intel Foundation",
+            "match": true
+        },
+        {
+            "name": "Intelsat International Monetary Fund",
+            "match": true
+        },
+        {
+            "name": "Interlake Corp.",
+            "match": true
+        },
+        {
+            "name": "Interlake, Inc.",
+            "match": true
+        },
+        {
+            "name": "International Business Machines Corp.",
+            "match": true
+        },
+        {
+            "name": "International Data Group",
+            "match": true
+        },
+        {
+            "name": "International Paper Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Interra Financial",
+            "match": true
+        },
+        {
+            "name": "Intuit",
+            "match": true
+        },
+        {
+            "name": "Intuit Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Irvine Foundation, James, The",
+            "match": true
+        },
+        {
+            "name": "ITG, Inc.",
+            "match": true
+        },
+        {
+            "name": "ITT Industries",
+            "match": true
+        },
+        {
+            "name": "J",
+            "match": true
+        },
+        {
+            "name": "Jackson National Community Fund",
+            "match": true
+        },
+        {
+            "name": "Jacobs Family Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Jamee and Marshall Field Foundation",
+            "match": true
+        },
+        {
+            "name": "James S Copley Foundation",
+            "match": true
+        },
+        {
+            "name": "JC Penney",
+            "match": true
+        },
+        {
+            "name": "Jefferies & Company, Inc.",
+            "match": true
+        },
+        {
+            "name": "Jefferies Group Inc.",
+            "match": true
+        },
+        {
+            "name": "Jefferson-Pilot Corporation",
+            "match": true
+        },
+        {
+            "name": "Jefferson Pilot Financial",
+            "match": true
+        },
+        {
+            "name": "John D. and Catherine T. MacArthur Foundation",
+            "match": true
+        },
+        {
+            "name": "John Hancock Advisers Inc.",
+            "match": true
+        },
+        {
+            "name": "John Hancock Financial Services Inc",
+            "match": true
+        },
+        {
+            "name": "John Hancock Mutual Life Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "John Wiley & Sons Inc. Publishers",
+            "match": true
+        },
+        {
+            "name": "Johnson Controls Inc.",
+            "match": true
+        },
+        {
+            "name": "Johnson Higgins",
+            "match": true
+        },
+        {
+            "name": "Johnson & Johnson",
+            "match": true
+        },
+        {
+            "name": "Johnson & Johnson Family of Cos.",
+            "match": true
+        },
+        {
+            "name": "Jones, Lang, LaSalle Juniper Networks, Inc.",
+            "match": true
+        },
+        {
+            "name": "Joseph E. Seagram & Sons Inc.",
+            "match": true
+        },
+        {
+            "name": "Josiah Macy Jr. Foundation",
+            "match": true
+        },
+        {
+            "name": "Jostens Foundation",
+            "match": true
+        },
+        {
+            "name": "Jostens Inc.",
+            "match": true
+        },
+        {
+            "name": "JP Morgan Chase & Co.",
+            "match": true
+        },
+        {
+            "name": "JP Morgan Chase Foundation",
+            "match": true
+        },
+        {
+            "name": "J. P. Morgan & Co. Inc.",
+            "match": true
+        },
+        {
+            "name": "J. Paul Getty Trust",
+            "match": true
+        },
+        {
+            "name": "JSJ Corp.",
+            "match": true
+        },
+        {
+            "name": "Juran Institute, Inc.",
+            "match": true
+        },
+        {
+            "name": "K",
+            "match": true
+        },
+        {
+            "name": "Kaiser Family Foundation",
+            "match": true
+        },
+        {
+            "name": "Kaiser Family Foundation, Henry J., The",
+            "match": true
+        },
+        {
+            "name": "Kansas City Southern Industries Inc.",
+            "match": true
+        },
+        {
+            "name": "Kawasaki Motors Corporation",
+            "match": true
+        },
+        {
+            "name": "Keane, Inc.",
+            "match": true
+        },
+        {
+            "name": "Kellogg Co.",
+            "match": true
+        },
+        {
+            "name": "Kemper Insurance Cos.",
+            "match": true
+        },
+        {
+            "name": "Kemper National Co.",
+            "match": true
+        },
+        {
+            "name": "Kennametal Inc.",
+            "match": true
+        },
+        {
+            "name": "Kennecott Corp.",
+            "match": true
+        },
+        {
+            "name": "Kerr-McGee Corporation",
+            "match": true
+        },
+        {
+            "name": "KeyCorp",
+            "match": true
+        },
+        {
+            "name": "Key Foundation",
+            "match": true
+        },
+        {
+            "name": "Keystone Associates Inc.",
+            "match": true
+        },
+        {
+            "name": "Kimberly-Clark Corp.",
+            "match": true
+        },
+        {
+            "name": "Kimberly Clark Foundation",
+            "match": true
+        },
+        {
+            "name": "Kinder Morgan Foundation",
+            "match": true
+        },
+        {
+            "name": "Kinney Shoe Corp.",
+            "match": true
+        },
+        {
+            "name": "Kirkland & Ellis",
+            "match": true
+        },
+        {
+            "name": "Kirkland & Ellis Foundation",
+            "match": true
+        },
+        {
+            "name": "KLA-Tencor Foundation",
+            "match": true
+        },
+        {
+            "name": "Kmart Corp.",
+            "match": true
+        },
+        {
+            "name": "KN Energy Foundation",
+            "match": true
+        },
+        {
+            "name": "KN Energy Inc.",
+            "match": true
+        },
+        {
+            "name": "Knight Foundation, John S. and James",
+            "match": true
+        },
+        {
+            "name": "L.",
+            "match": true
+        },
+        {
+            "name": "Knight Ridder Inc",
+            "match": true
+        },
+        {
+            "name": "Kobe Steel USA, Inc.",
+            "match": true
+        },
+        {
+            "name": "KPMG Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Kraft Employee Involvement Programs",
+            "match": true
+        },
+        {
+            "name": "Kraft Foods Matching Gifts Program",
+            "match": true
+        },
+        {
+            "name": "KraftMaid Cabinetry, Inc",
+            "match": true
+        },
+        {
+            "name": "Kraybill Homes Inc",
+            "match": true
+        },
+        {
+            "name": "KTLA-TV",
+            "match": true
+        },
+        {
+            "name": "L",
+            "match": true
+        },
+        {
+            "name": "Lam Research Corp.",
+            "match": true
+        },
+        {
+            "name": "Lamson & Sessions Co.",
+            "match": true
+        },
+        {
+            "name": "LandAmerica Financial Group Inc.",
+            "match": true
+        },
+        {
+            "name": "LandAmerica Foundation",
+            "match": true
+        },
+        {
+            "name": "Landmark Graphics",
+            "match": true
+        },
+        {
+            "name": "Land O'Lakes",
+            "match": true
+        },
+        {
+            "name": "Legerity, Inc.",
+            "match": true
+        },
+        {
+            "name": "Lehman Brothers, Inc.",
+            "match": true
+        },
+        {
+            "name": "Lend Lease Real Estate Investments",
+            "match": true
+        },
+        {
+            "name": "Leo Burnett Co. Inc.",
+            "match": true
+        },
+        {
+            "name": "Levi Strauss & Co.",
+            "match": true
+        },
+        {
+            "name": "Levi Strauss Foundation",
+            "match": true
+        },
+        {
+            "name": "LEXIS-NEXIS",
+            "match": true
+        },
+        {
+            "name": "LexisNexis Corporate Giving Program",
+            "match": true
+        },
+        {
+            "name": "Lexmark Internaional Inc.",
+            "match": true
+        },
+        {
+            "name": "Lilly Endowment Inc.",
+            "match": true
+        },
+        {
+            "name": "Lipton Thomas J. Co.",
+            "match": true
+        },
+        {
+            "name": "Liz Claiborne Foundation",
+            "match": true
+        },
+        {
+            "name": "Liz Claiborne Inc.",
+            "match": true
+        },
+        {
+            "name": "Lockheed Martin Corporation",
+            "match": true
+        },
+        {
+            "name": "Loews Corp.",
+            "match": true
+        },
+        {
+            "name": "Lord Abbett",
+            "match": true
+        },
+        {
+            "name": "Lorillard Tobacco Co.",
+            "match": true
+        },
+        {
+            "name": "Los Angeles Times",
+            "match": true
+        },
+        {
+            "name": "Lotus Development Corp.",
+            "match": true
+        },
+        {
+            "name": "Louisiana-Pacific Foundation",
+            "match": true
+        },
+        {
+            "name": "Lubrizol Corp.",
+            "match": true
+        },
+        {
+            "name": "Lubrizol Foundation",
+            "match": true
+        },
+        {
+            "name": "Lucent Technologies",
+            "match": true
+        },
+        {
+            "name": "Lumpkin Family Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Lyondell Chemical Company",
+            "match": true
+        },
+        {
+            "name": "M",
+            "match": true
+        },
+        {
+            "name": "Maclean-Fogg Co.",
+            "match": true
+        },
+        {
+            "name": "Maguire Oil Co.",
+            "match": true
+        },
+        {
+            "name": "Majestic Realty Foundation",
+            "match": true
+        },
+        {
+            "name": "Mallinckrodt Group Inc.",
+            "match": true
+        },
+        {
+            "name": "Mallinckrodt Medical, Inc.",
+            "match": true
+        },
+        {
+            "name": "Management Compensation Group/Dulworth Inc.",
+            "match": true
+        },
+        {
+            "name": "Manulife",
+            "match": true
+        },
+        {
+            "name": "Marathon Oil Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Mark IV Capital, Inc.",
+            "match": true
+        },
+        {
+            "name": "Marin Community Foundation",
+            "match": true
+        },
+        {
+            "name": "Maritz Inc.",
+            "match": true
+        },
+        {
+            "name": "Massachusetts Financial Services Co.",
+            "match": true
+        },
+        {
+            "name": "Massachusetts Financial Services Investment Management",
+            "match": true
+        },
+        {
+            "name": "Massachusetts Mutual Life",
+            "match": true
+        },
+        {
+            "name": "Massachusetts Port Authority",
+            "match": true
+        },
+        {
+            "name": "MassMutual-Blue Chip Co.",
+            "match": true
+        },
+        {
+            "name": "MassMutual Financial Group",
+            "match": true
+        },
+        {
+            "name": "Mass Mutual Life Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "MasterCard International",
+            "match": true
+        },
+        {
+            "name": "MasterCard International Inc.",
+            "match": true
+        },
+        {
+            "name": "Mattel Children's Foundation",
+            "match": true
+        },
+        {
+            "name": "Mattel Foundation",
+            "match": true
+        },
+        {
+            "name": "Mattel Inc.",
+            "match": true
+        },
+        {
+            "name": "Maverick Capital Charities",
+            "match": true
+        },
+        {
+            "name": "May Department Stores Co.",
+            "match": true
+        },
+        {
+            "name": "May Department Stores Company Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Mayer, Brown, Rowe & Maw",
+            "match": true
+        },
+        {
+            "name": "Maytag Corp.",
+            "match": true
+        },
+        {
+            "name": "Maytag Corporation Foundation",
+            "match": true
+        },
+        {
+            "name": "Mazda Inc.",
+            "match": true
+        },
+        {
+            "name": "Mazda North America Inc.",
+            "match": true
+        },
+        {
+            "name": "MBIA Inc.",
+            "match": true
+        },
+        {
+            "name": "McAfee, Inc.",
+            "match": true
+        },
+        {
+            "name": "McConnell Foundation, The",
+            "match": true
+        },
+        {
+            "name": "McCormick & Co, Inc.",
+            "match": true
+        },
+        {
+            "name": "McDonald's Corporation",
+            "match": true
+        },
+        {
+            "name": "McDonnell Douglas Foundation",
+            "match": true
+        },
+        {
+            "name": "McGraw",
+            "match": true
+        },
+        {
+            "name": "McGraw-Hill Cos.",
+            "match": true
+        },
+        {
+            "name": "McGraw-Hill Foundation, Incorporated",
+            "match": true
+        },
+        {
+            "name": "McMaster-Carr Supply Co.",
+            "match": true
+        },
+        {
+            "name": "Meadows Foundation",
+            "match": true
+        },
+        {
+            "name": "Medical Consultants Network Inc.",
+            "match": true
+        },
+        {
+            "name": "Medtronic Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Mellon Bank Corp.",
+            "match": true
+        },
+        {
+            "name": "Mellon Bank, N.A.",
+            "match": true
+        },
+        {
+            "name": "Merck & Co. Inc.",
+            "match": true
+        },
+        {
+            "name": "Merck Partnership for Giving",
+            "match": true
+        },
+        {
+            "name": "Merck Partnership for Giving Campaign",
+            "match": true
+        },
+        {
+            "name": "Meredith Corp.",
+            "match": true
+        },
+        {
+            "name": "Merit Oil Corp.",
+            "match": true
+        },
+        {
+            "name": "Meritor Savings Bank",
+            "match": true
+        },
+        {
+            "name": "Merrill Lynch & Co. Foundation, Inc",
+            "match": true
+        },
+        {
+            "name": "Merrill Lynch & Co. Inc.",
+            "match": true
+        },
+        {
+            "name": "MetLife Foundation",
+            "match": true
+        },
+        {
+            "name": "MFS Microsoft Giving Campaign",
+            "match": true
+        },
+        {
+            "name": "M-I LLC",
+            "match": true
+        },
+        {
+            "name": "Micron Technology Inc.",
+            "match": true
+        },
+        {
+            "name": "Microsoft Corp.",
+            "match": true
+        },
+        {
+            "name": "Microsoft Giving Campaign",
+            "match": true
+        },
+        {
+            "name": "Microsoft Matching Gifts Program",
+            "match": true
+        },
+        {
+            "name": "Millipore Corp.",
+            "match": true
+        },
+        {
+            "name": "Millipore Foundation",
+            "match": true
+        },
+        {
+            "name": "Minerals Technologies Inc.",
+            "match": true
+        },
+        {
+            "name": "Minnesota Mutual Life",
+            "match": true
+        },
+        {
+            "name": "Minnesota Mutual Life Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "Miretek Systems",
+            "match": true
+        },
+        {
+            "name": "Mitretek Systems Inc.",
+            "match": true
+        },
+        {
+            "name": "Mitsubishi Electric America Foundation",
+            "match": true
+        },
+        {
+            "name": "Mitsubishi International Corporation, The",
+            "match": true
+        },
+        {
+            "name": "Mitsubishi Trust & Banking Corp.",
+            "match": true
+        },
+        {
+            "name": "Mitsui U.S.A. Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Mizuho USA Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "MMC",
+            "match": true
+        },
+        {
+            "name": "MMC Capital Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Mobil",
+            "match": true
+        },
+        {
+            "name": "Modus Media International",
+            "match": true
+        },
+        {
+            "name": "Moen Inc.",
+            "match": true
+        },
+        {
+            "name": "Monsanto Co.",
+            "match": true
+        },
+        {
+            "name": "Monsanto Fund",
+            "match": true
+        },
+        {
+            "name": "Montana Power Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Monterey Peninsula Foundation",
+            "match": true
+        },
+        {
+            "name": "Montgomery Ward & Company, Inc.",
+            "match": true
+        },
+        {
+            "name": "Montgomery Ward Fdn.",
+            "match": true
+        },
+        {
+            "name": "MONY (Mutual of NY)",
+            "match": true
+        },
+        {
+            "name": "MONY Life Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "Moody's Corporation",
+            "match": true
+        },
+        {
+            "name": "Moody's Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Morgan Construction Co.",
+            "match": true
+        },
+        {
+            "name": "Morgan Stanley & Co.",
+            "match": true
+        },
+        {
+            "name": "Morgan Stanley Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Morgan Stanley Giving Station",
+            "match": true
+        },
+        {
+            "name": "Morrison & Foerster",
+            "match": true
+        },
+        {
+            "name": "Morrison & Foerster, LLP",
+            "match": true
+        },
+        {
+            "name": "Morton International Inc.",
+            "match": true
+        },
+        {
+            "name": "Motiva Enterprises",
+            "match": true
+        },
+        {
+            "name": "Motorola Foundation",
+            "match": true
+        },
+        {
+            "name": "Motorola Inc.",
+            "match": true
+        },
+        {
+            "name": "MTS Systems Corp.",
+            "match": true
+        },
+        {
+            "name": "Mueller Company",
+            "match": true
+        },
+        {
+            "name": "Murphy Oil Corp.",
+            "match": true
+        },
+        {
+            "name": "Mustang Fuel Corp",
+            "match": true
+        },
+        {
+            "name": "Mutual of America",
+            "match": true
+        },
+        {
+            "name": "N",
+            "match": true
+        },
+        {
+            "name": "Nabisco",
+            "match": true
+        },
+        {
+            "name": "NACCO Industries Inc.",
+            "match": true
+        },
+        {
+            "name": "Nalco Chemical Co.",
+            "match": true
+        },
+        {
+            "name": "Nalco Company",
+            "match": true
+        },
+        {
+            "name": "Narragansett Electric Co.",
+            "match": true
+        },
+        {
+            "name": "National City Bank of Pennsylvania",
+            "match": true
+        },
+        {
+            "name": "National Computer System",
+            "match": true
+        },
+        {
+            "name": "National Computer Systems",
+            "match": true
+        },
+        {
+            "name": "National Instruments",
+            "match": true
+        },
+        {
+            "name": "National Kidney Foundation of Southern",
+            "match": true
+        },
+        {
+            "name": "California",
+            "match": true
+        },
+        {
+            "name": "National Multiple Sclerosis Society",
+            "match": true
+        },
+        {
+            "name": "National Semiconductor Corporation",
+            "match": true
+        },
+        {
+            "name": "National Starch and Chemical Co.",
+            "match": true
+        },
+        {
+            "name": "Nationwide Mutual Insurance",
+            "match": true
+        },
+        {
+            "name": "NationsCredit Corp.",
+            "match": true
+        },
+        {
+            "name": "Natural Gas Clearinghouse",
+            "match": true
+        },
+        {
+            "name": "NBC Universal",
+            "match": true
+        },
+        {
+            "name": "NCR",
+            "match": true
+        },
+        {
+            "name": "NCR Corp.",
+            "match": true
+        },
+        {
+            "name": "NCR Foundation, The",
+            "match": true
+        },
+        {
+            "name": "NEC Electronics America, Inc.",
+            "match": true
+        },
+        {
+            "name": "Corporate Giving Program",
+            "match": true
+        },
+        {
+            "name": "NEES Cos.",
+            "match": true
+        },
+        {
+            "name": "Neiman Marcus",
+            "match": true
+        },
+        {
+            "name": "Neiman-Marcus Group",
+            "match": true
+        },
+        {
+            "name": "Nellie Mae",
+            "match": true
+        },
+        {
+            "name": "Nestle",
+            "match": true
+        },
+        {
+            "name": "Network Associates",
+            "match": true
+        },
+        {
+            "name": "Network Associates Matching Gift Program",
+            "match": true
+        },
+        {
+            "name": "New Century Energies",
+            "match": true
+        },
+        {
+            "name": "New Century Energies Foundation",
+            "match": true
+        },
+        {
+            "name": "New England Business Service Inc.",
+            "match": true
+        },
+        {
+            "name": "New England Electric",
+            "match": true
+        },
+        {
+            "name": "New England Electric System Cos.",
+            "match": true
+        },
+        {
+            "name": "Newfield Exploration Company",
+            "match": true
+        },
+        {
+            "name": "New Jersey Bell Telephone Co.",
+            "match": true
+        },
+        {
+            "name": "New United Motor Manufacturing, Inc.",
+            "match": true
+        },
+        {
+            "name": "Corporate Giving Program",
+            "match": true
+        },
+        {
+            "name": "New York Life Foundation",
+            "match": true
+        },
+        {
+            "name": "New York Times",
+            "match": true
+        },
+        {
+            "name": "New York Times Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Newcars.com",
+            "match": true
+        },
+        {
+            "name": "Newhall Land & Farming Company",
+            "match": true
+        },
+        {
+            "name": "Newmont Mining Corp.",
+            "match": true
+        },
+        {
+            "name": "Newsweek, Inc.",
+            "match": true
+        },
+        {
+            "name": "Newsweek, Inc. Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Nexen Petroleum USA Inc",
+            "match": true
+        },
+        {
+            "name": "Niagara Mohawk Power Corp.",
+            "match": true
+        },
+        {
+            "name": "Nicor Gas",
+            "match": true
+        },
+        {
+            "name": "NIKE Inc.",
+            "match": true
+        },
+        {
+            "name": "Nims Associates Inc.",
+            "match": true
+        },
+        {
+            "name": "Nintendo",
+            "match": true
+        },
+        {
+            "name": "Nissan North America Inc.",
+            "match": true
+        },
+        {
+            "name": "Nissan North America, Inc. Corporate",
+            "match": true
+        },
+        {
+            "name": "Giving Program",
+            "match": true
+        },
+        {
+            "name": "NL Industries, Inc.",
+            "match": true
+        },
+        {
+            "name": "Nokia, Inc.",
+            "match": true
+        },
+        {
+            "name": "Nordson Corp.",
+            "match": true
+        },
+        {
+            "name": "Nordson Corporation Contributions",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Norfolk & Dedham Group",
+            "match": true
+        },
+        {
+            "name": "Norfolk Southern Corp.",
+            "match": true
+        },
+        {
+            "name": "Norfolk Southern Foundation",
+            "match": true
+        },
+        {
+            "name": "Nortel Networks",
+            "match": true
+        },
+        {
+            "name": "Nortel Networks, Inc.",
+            "match": true
+        },
+        {
+            "name": "Norther States Power Co.",
+            "match": true
+        },
+        {
+            "name": "Northern Trust Co.",
+            "match": true
+        },
+        {
+            "name": "Northrop Grumman Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Northwestern Energy",
+            "match": true
+        },
+        {
+            "name": "Northwestern Mutual Life Insurance",
+            "match": true
+        },
+        {
+            "name": "Norton Co.",
+            "match": true
+        },
+        {
+            "name": "Norton Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Novartis Corp.",
+            "match": true
+        },
+        {
+            "name": "Novartis US Foundation",
+            "match": true
+        },
+        {
+            "name": "Noveel Inc.",
+            "match": true
+        },
+        {
+            "name": "NTT America, Inc. Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "NVEST Cos., LP",
+            "match": true
+        },
+        {
+            "name": "NYCE Corporation",
+            "match": true
+        },
+        {
+            "name": "O",
+            "match": true
+        },
+        {
+            "name": "Oak Associated, Ltd.",
+            "match": true
+        },
+        {
+            "name": "Occidental Petroleum Charitable Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "OG&E Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Oklahoma State University Foundation",
+            "match": true
+        },
+        {
+            "name": "Olin Corp.",
+            "match": true
+        },
+        {
+            "name": "Omni Travel",
+            "match": true
+        },
+        {
+            "name": "ONDEO Nalco Company",
+            "match": true
+        },
+        {
+            "name": "ONEOK Foundation",
+            "match": true
+        },
+        {
+            "name": "OppenheimerFunds Inc.",
+            "match": true
+        },
+        {
+            "name": "Oracle",
+            "match": true
+        },
+        {
+            "name": "Oracle Corporation",
+            "match": true
+        },
+        {
+            "name": "Orfalea Family Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Orion Capital Corp.",
+            "match": true
+        },
+        {
+            "name": "Oryx Energy Co.",
+            "match": true
+        },
+        {
+            "name": "Osmonics Inc.",
+            "match": true
+        },
+        {
+            "name": "Outboard Marine Corp.",
+            "match": true
+        },
+        {
+            "name": "Owens-Corning",
+            "match": true
+        },
+        {
+            "name": "Owens-Illinois Inc.",
+            "match": true
+        },
+        {
+            "name": "P",
+            "match": true
+        },
+        {
+            "name": "Paccar Foundation",
+            "match": true
+        },
+        {
+            "name": "Pacific Enterprises",
+            "match": true
+        },
+        {
+            "name": "Pacific Gas & Electric Company",
+            "match": true
+        },
+        {
+            "name": "Contributions Program",
+            "match": true
+        },
+        {
+            "name": "Pacific Huts & Castles, Inc.",
+            "match": true
+        },
+        {
+            "name": "Pacific Life Foundation",
+            "match": true
+        },
+        {
+            "name": "PacifiCorp Foundation",
+            "match": true
+        },
+        {
+            "name": "Packard Foundation, David and Lucile,",
+            "match": true
+        },
+        {
+            "name": "The",
+            "match": true
+        },
+        {
+            "name": "Pactiv Corporation",
+            "match": true
+        },
+        {
+            "name": "Palm Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Palos Verdes Peninsula Education",
+            "match": true
+        },
+        {
+            "name": "Foundation",
+            "match": true
+        },
+        {
+            "name": "Pan Energy Corp.",
+            "match": true
+        },
+        {
+            "name": "Panhandle Easter Corp.",
+            "match": true
+        },
+        {
+            "name": "Panhandle Royalty Company",
+            "match": true
+        },
+        {
+            "name": "Payden & Rygel",
+            "match": true
+        },
+        {
+            "name": "PBG Foundation",
+            "match": true
+        },
+        {
+            "name": "PC World/IDG Central Services",
+            "match": true
+        },
+        {
+            "name": "PEC Solutions, Inc",
+            "match": true
+        },
+        {
+            "name": "Pegasus Systems",
+            "match": true
+        },
+        {
+            "name": "Pella",
+            "match": true
+        },
+        {
+            "name": "Pella Corp.",
+            "match": true
+        },
+        {
+            "name": "Penn Central Corporation",
+            "match": true
+        },
+        {
+            "name": "Penn Virginia Corporation",
+            "match": true
+        },
+        {
+            "name": "Pennzoil-Quaker State",
+            "match": true
+        },
+        {
+            "name": "Pentair Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Peoples Gas Corp.",
+            "match": true
+        },
+        {
+            "name": "Pepsi Bottling Group Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "PepsiCo",
+            "match": true
+        },
+        {
+            "name": "PepsiCo Foundation",
+            "match": true
+        },
+        {
+            "name": "Perkins Charitable Foundation",
+            "match": true
+        },
+        {
+            "name": "Pew Charitable Trusts",
+            "match": true
+        },
+        {
+            "name": "Pfizer Foundation",
+            "match": true
+        },
+        {
+            "name": "Pfizer Foundation Matching Gifts Program",
+            "match": true
+        },
+        {
+            "name": "Pfizer Inc.",
+            "match": true
+        },
+        {
+            "name": "PG&E Corporation Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Pharmacia Matching Gift/Pfizer Foundation",
+            "match": true
+        },
+        {
+            "name": "Pharmacia & Upjohn Foundation",
+            "match": true
+        },
+        {
+            "name": "Pharmacia & Upjohn Inc.",
+            "match": true
+        },
+        {
+            "name": "Phelps Dodge Corp.",
+            "match": true
+        },
+        {
+            "name": "Philip Morris",
+            "match": true
+        },
+        {
+            "name": "Phillip Morris Cos. Inc.",
+            "match": true
+        },
+        {
+            "name": "PhilipMorrisUSA",
+            "match": true
+        },
+        {
+            "name": "Pillsbury Corporation",
+            "match": true
+        },
+        {
+            "name": "PIMCO",
+            "match": true
+        },
+        {
+            "name": "Pioneer Group Inc.",
+            "match": true
+        },
+        {
+            "name": "Pioneer Hi-Bred International Inc.",
+            "match": true
+        },
+        {
+            "name": "Pitney Bowes Inc.",
+            "match": true
+        },
+        {
+            "name": "Pittston Co.",
+            "match": true
+        },
+        {
+            "name": "Pittway Corp.",
+            "match": true
+        },
+        {
+            "name": "PJM Interconnection",
+            "match": true
+        },
+        {
+            "name": "Platinum Technology",
+            "match": true
+        },
+        {
+            "name": "PLATINUM Technology Inc.",
+            "match": true
+        },
+        {
+            "name": "Playboy Enterprises Inc.",
+            "match": true
+        },
+        {
+            "name": "Playboy Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Plum Creek Timber Co. L.P.",
+            "match": true
+        },
+        {
+            "name": "Plumas Community Foundation",
+            "match": true
+        },
+        {
+            "name": "Plymouth Rock Foundation",
+            "match": true
+        },
+        {
+            "name": "PMI Foundation, The",
+            "match": true
+        },
+        {
+            "name": "PNC Foundation",
+            "match": true
+        },
+        {
+            "name": "Pogo Producing Co.",
+            "match": true
+        },
+        {
+            "name": "Polaroid",
+            "match": true
+        },
+        {
+            "name": "Polaroid Corp.",
+            "match": true
+        },
+        {
+            "name": "PPG Industries Foundation",
+            "match": true
+        },
+        {
+            "name": "PPG Industries Inc.",
+            "match": true
+        },
+        {
+            "name": "PQ Corp.",
+            "match": true
+        },
+        {
+            "name": "Premark International Inc.",
+            "match": true
+        },
+        {
+            "name": "PricewaterhouseCoopers Foundation",
+            "match": true
+        },
+        {
+            "name": "Prince Fdn.",
+            "match": true
+        },
+        {
+            "name": "Principal Financial Group Foundation",
+            "match": true
+        },
+        {
+            "name": "Procter & Gamble Fund",
+            "match": true
+        },
+        {
+            "name": "Progressive Insurance Foundation",
+            "match": true
+        },
+        {
+            "name": "Progressive Investment Corp.",
+            "match": true
+        },
+        {
+            "name": "Provident Cos. Inc.",
+            "match": true
+        },
+        {
+            "name": "Providian Financial",
+            "match": true
+        },
+        {
+            "name": "Prudential Comm. Giving Campaign",
+            "match": true
+        },
+        {
+            "name": "Prudential Financial",
+            "match": true
+        },
+        {
+            "name": "Prudential Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Prudential Insurance Co. of America",
+            "match": true
+        },
+        {
+            "name": "Publix Super Markets Charities Inc",
+            "match": true
+        },
+        {
+            "name": "Q",
+            "match": true
+        },
+        {
+            "name": "Quaker Chemical",
+            "match": true
+        },
+        {
+            "name": "Quaker Chemical Corp.",
+            "match": true
+        },
+        {
+            "name": "Quaker Oats Co.",
+            "match": true
+        },
+        {
+            "name": "Quaker Oats Foundation",
+            "match": true
+        },
+        {
+            "name": "Qualcomm Incorporated",
+            "match": true
+        },
+        {
+            "name": "Quantum Corporation",
+            "match": true
+        },
+        {
+            "name": "Quest Diagnostics",
+            "match": true
+        },
+        {
+            "name": "Quest Diagnostics Incorporated",
+            "match": true
+        },
+        {
+            "name": "R",
+            "match": true
+        },
+        {
+            "name": "R. R. Donnelley & Sons Co.",
+            "match": true
+        },
+        {
+            "name": "R. J. R. Nabisco Foundation Inc.",
+            "match": true
+        },
+        {
+            "name": "Radio City Music Hall Productions, Inc.",
+            "match": true
+        },
+        {
+            "name": "Radio Shack Matching Gifts Program",
+            "match": true
+        },
+        {
+            "name": "Raley's Inc. Corporate Giving Program",
+            "match": true
+        },
+        {
+            "name": "Ralston Purina Co.",
+            "match": true
+        },
+        {
+            "name": "Rayonier Foundation",
+            "match": true
+        },
+        {
+            "name": "Raytheon Company",
+            "match": true
+        },
+        {
+            "name": "Reader's Digest Association Inc.",
+            "match": true
+        },
+        {
+            "name": "Reader's Digest Foundation",
+            "match": true
+        },
+        {
+            "name": "RealNetworks, Inc.",
+            "match": true
+        },
+        {
+            "name": "Reebok Foundation",
+            "match": true
+        },
+        {
+            "name": "Rejuvenation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Reliable Life Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "Response Analysis",
+            "match": true
+        },
+        {
+            "name": "Reuters America, Inc.",
+            "match": true
+        },
+        {
+            "name": "Reuters Inc.",
+            "match": true
+        },
+        {
+            "name": "REW Group, Inc.",
+            "match": true
+        },
+        {
+            "name": "Rexene Corp",
+            "match": true
+        },
+        {
+            "name": "Rexnord",
+            "match": true
+        },
+        {
+            "name": "Rexnord Corp.",
+            "match": true
+        },
+        {
+            "name": "Ridgewood Savings",
+            "match": true
+        },
+        {
+            "name": "RJ Reynolds Tobacco Company Foundation",
+            "match": true
+        },
+        {
+            "name": "RLI Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "Robert Wood Johnson Foundation",
+            "match": true
+        },
+        {
+            "name": "Roche Matching Gifts Program",
+            "match": true
+        },
+        {
+            "name": "Rockefeller Brothers Fund Inc.",
+            "match": true
+        },
+        {
+            "name": "Rockefeller Family and Associates",
+            "match": true
+        },
+        {
+            "name": "Rockefeller Group",
+            "match": true
+        },
+        {
+            "name": "Rockwell",
+            "match": true
+        },
+        {
+            "name": "Rockwell Collins",
+            "match": true
+        },
+        {
+            "name": "Rockwell Collins Charitable Corporation",
+            "match": true
+        },
+        {
+            "name": "Rockwell International Corp.",
+            "match": true
+        },
+        {
+            "name": "Rolm Co.",
+            "match": true
+        },
+        {
+            "name": "RONIN Development Corp.",
+            "match": true
+        },
+        {
+            "name": "Roosevelt Bank",
+            "match": true
+        },
+        {
+            "name": "Rose Hills Foundation",
+            "match": true
+        },
+        {
+            "name": "Rosewood Corp.",
+            "match": true
+        },
+        {
+            "name": "Ross Johnston & Kersting Inc.",
+            "match": true
+        },
+        {
+            "name": "Rounds Vanduzer Architects, P.C.",
+            "match": true
+        },
+        {
+            "name": "Rubbermaid Inc",
+            "match": true
+        },
+        {
+            "name": "Rudolph and Sletten, Inc. Corporate",
+            "match": true
+        },
+        {
+            "name": "Giving Program",
+            "match": true
+        },
+        {
+            "name": "Russell Sage Foundation",
+            "match": true
+        },
+        {
+            "name": "Ryco Division Reilly-Whiteman Inc.",
+            "match": true
+        },
+        {
+            "name": "Ryder System Charitable Foundation,",
+            "match": true
+        },
+        {
+            "name": "Inc., The",
+            "match": true
+        },
+        {
+            "name": "S",
+            "match": true
+        },
+        {
+            "name": "Sabre Holdings",
+            "match": true
+        },
+        {
+            "name": "Safeco Corp.",
+            "match": true
+        },
+        {
+            "name": "SAFECO Insurance Companies",
+            "match": true
+        },
+        {
+            "name": "Sage Publications, Inc.",
+            "match": true
+        },
+        {
+            "name": "SAIC",
+            "match": true
+        },
+        {
+            "name": "Saint-Gobain Corporation Foundation",
+            "match": true
+        },
+        {
+            "name": "Sallie Mae",
+            "match": true
+        },
+        {
+            "name": "San Antonio Area Foundation/USAA",
+            "match": true
+        },
+        {
+            "name": "San Francisco Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Sanofi-Aventis",
+            "match": true
+        },
+        {
+            "name": "SAP",
+            "match": true
+        },
+        {
+            "name": "SAP America, Inc. Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Sara Lee Corp.",
+            "match": true
+        },
+        {
+            "name": "Sara Lee Foundation",
+            "match": true
+        },
+        {
+            "name": "SBC Communications Inc.",
+            "match": true
+        },
+        {
+            "name": "SBC Foundation",
+            "match": true
+        },
+        {
+            "name": "Science Applications International Corp",
+            "match": true
+        },
+        {
+            "name": "Scitor Corporation",
+            "match": true
+        },
+        {
+            "name": "Schering-Plough Foundation",
+            "match": true
+        },
+        {
+            "name": "Schindler Elevator Corporation",
+            "match": true
+        },
+        {
+            "name": "Schwab Foundation, Charles, The",
+            "match": true
+        },
+        {
+            "name": "Schwab Foundation, Charles and Helen",
+            "match": true
+        },
+        {
+            "name": "Science Applications International Corp",
+            "match": true
+        },
+        {
+            "name": "Scitor Corporation",
+            "match": true
+        },
+        {
+            "name": "Scientific-Atlanta Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Scott Paper Company",
+            "match": true
+        },
+        {
+            "name": "Seagate Technology Inc",
+            "match": true
+        },
+        {
+            "name": "Security Life of Denver Ins.",
+            "match": true
+        },
+        {
+            "name": "Sedgwick Inc.",
+            "match": true
+        },
+        {
+            "name": "Sedgwick James, Inc.",
+            "match": true
+        },
+        {
+            "name": "Sentry Insurance Foundation Inc.",
+            "match": true
+        },
+        {
+            "name": "SemGroup LP",
+            "match": true
+        },
+        {
+            "name": "Sempra Energy",
+            "match": true
+        },
+        {
+            "name": "Sempra Energy Corporate Giving",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Sephora Service Corps",
+            "match": true
+        },
+        {
+            "name": "Shaklee Corp.",
+            "match": true
+        },
+        {
+            "name": "Shearson Lehman Brothers Inc.",
+            "match": true
+        },
+        {
+            "name": "Sheldahl Inc.",
+            "match": true
+        },
+        {
+            "name": "Shell Oil Company Foundation",
+            "match": true
+        },
+        {
+            "name": "Shenandoah Life Insurance Co.",
+            "match": true
+        },
+        {
+            "name": "Sherwin-Williams Co.",
+            "match": true
+        },
+        {
+            "name": "Shiva Corporation",
+            "match": true
+        },
+        {
+            "name": "Siemens VDO Automotive",
+            "match": true
+        },
+        {
+            "name": "Sierra Health Foundation",
+            "match": true
+        },
+        {
+            "name": "Sierra Pacific Resources Charitable Foundation",
+            "match": true
+        },
+        {
+            "name": "Sifco Industries Inc.",
+            "match": true
+        },
+        {
+            "name": "Silicon Graphics Inc.",
+            "match": true
+        },
+        {
+            "name": "Silicon Valley Community Foundation",
+            "match": true
+        },
+        {
+            "name": "Simon Foundation, Inc., William E.",
+            "match": true
+        },
+        {
+            "name": "Simpson Manufacturing Co.",
+            "match": true
+        },
+        {
+            "name": "Sizzler International, Inc.",
+            "match": true
+        },
+        {
+            "name": "SmithKline Beecham",
+            "match": true
+        },
+        {
+            "name": "SNET",
+            "match": true
+        },
+        {
+            "name": "Solano Community Foundation",
+            "match": true
+        },
+        {
+            "name": "Sonat Inc.",
+            "match": true
+        },
+        {
+            "name": "Sony Corp. of America",
+            "match": true
+        },
+        {
+            "name": "Sony Pictures Entertainment",
+            "match": true
+        },
+        {
+            "name": "Sony USA Fnd. Inc.",
+            "match": true
+        },
+        {
+            "name": "Sounds True, Inc.",
+            "match": true
+        },
+        {
+            "name": "Southern California Gas Company",
+            "match": true
+        },
+        {
+            "name": "Southern Company Services",
+            "match": true
+        },
+        {
+            "name": "Southern Star Central Gas Pipeline",
+            "match": true
+        },
+        {
+            "name": "Southwest Gas Corporation Foundation,",
+            "match": true
+        },
+        {
+            "name": "The",
+            "match": true
+        },
+        {
+            "name": "Southwestern Bell Fdn.",
+            "match": true
+        },
+        {
+            "name": "Southwestern/Great American",
+            "match": true
+        },
+        {
+            "name": "Spectrum Field Services",
+            "match": true
+        },
+        {
+            "name": "Speer, Leeds & Kellog",
+            "match": true
+        },
+        {
+            "name": "Spiegel Inc.",
+            "match": true
+        },
+        {
+            "name": "Sprint Corp.",
+            "match": true
+        },
+        {
+            "name": "Sprint Foundation",
+            "match": true
+        },
+        {
+            "name": "Sprint Foundation Matching Gifts Program",
+            "match": true
+        },
+        {
+            "name": "SPX Corp.",
+            "match": true
+        },
+        {
+            "name": "Square D Co.",
+            "match": true
+        },
+        {
+            "name": "St Paul Companies Inc",
+            "match": true
+        },
+        {
+            "name": "St. Paul Cos",
+            "match": true
+        },
+        {
+            "name": "St. Paul Travelers",
+            "match": true
+        },
+        {
+            "name": "Stanley Works",
+            "match": true
+        },
+        {
+            "name": "Starbucks Coffee Company",
+            "match": true
+        },
+        {
+            "name": "Starbucks Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Starbucks Matching Gifts Program",
+            "match": true
+        },
+        {
+            "name": "State Farm Companies Foundation",
+            "match": true
+        },
+        {
+            "name": "State Street Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Steelcase Foundation",
+            "match": true
+        },
+        {
+            "name": "Stein Foundation/Fund No. 2, Louis and",
+            "match": true
+        },
+        {
+            "name": "Bessie",
+            "match": true
+        },
+        {
+            "name": "Stillpoint Institute, Inc.",
+            "match": true
+        },
+        {
+            "name": "Stilwell Financial Inc",
+            "match": true
+        },
+        {
+            "name": "Stokes Lawrence",
+            "match": true
+        },
+        {
+            "name": "StorageTek Foundation",
+            "match": true
+        },
+        {
+            "name": "Stream International Inc",
+            "match": true
+        },
+        {
+            "name": "STREM Chemicals",
+            "match": true
+        },
+        {
+            "name": "Stride Rite Corp.",
+            "match": true
+        },
+        {
+            "name": "Stuart Foundation",
+            "match": true
+        },
+        {
+            "name": "Subaru of America Inc.",
+            "match": true
+        },
+        {
+            "name": "Sun Life Assurance Co. of Canada",
+            "match": true
+        },
+        {
+            "name": "Sun Microsystems Foundation",
+            "match": true
+        },
+        {
+            "name": "Sun Microsystems Inc.",
+            "match": true
+        },
+        {
+            "name": "Sunbeam Corporation",
+            "match": true
+        },
+        {
+            "name": "Sundstrand Corporation",
+            "match": true
+        },
+        {
+            "name": "Suntrust Bank, Atlanta",
+            "match": true
+        },
+        {
+            "name": "Susquehanna Investment Group",
+            "match": true
+        },
+        {
+            "name": "Swiss Bank Corp.",
+            "match": true
+        },
+        {
+            "name": "Symantec Corporation",
+            "match": true
+        },
+        {
+            "name": "Symantec Giving Program",
+            "match": true
+        },
+        {
+            "name": "Synopsys Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Syngenta Company",
+            "match": true
+        },
+        {
+            "name": "SYSCO Corporation",
+            "match": true
+        },
+        {
+            "name": "T",
+            "match": true
+        },
+        {
+            "name": "Takeda Pharmaceutical North America, Inc",
+            "match": true
+        },
+        {
+            "name": "Takeda Pharmaceuticals North America",
+            "match": true
+        },
+        {
+            "name": "Tandy Corp.",
+            "match": true
+        },
+        {
+            "name": "Tauck World Discovery",
+            "match": true
+        },
+        {
+            "name": "TC Group Matching Gifts Program",
+            "match": true
+        },
+        {
+            "name": "TCF Financial Corp.",
+            "match": true
+        },
+        {
+            "name": "Teagle Foundation Inc.",
+            "match": true
+        },
+        {
+            "name": "Technimetrics Inc.",
+            "match": true
+        },
+        {
+            "name": "Teichert Foundation",
+            "match": true
+        },
+        {
+            "name": "Tektronix Inc.",
+            "match": true
+        },
+        {
+            "name": "Telcordia Technologies",
+            "match": true
+        },
+        {
+            "name": "Teledyne Technologies Inc.",
+            "match": true
+        },
+        {
+            "name": "Teleflex Foundation",
+            "match": true
+        },
+        {
+            "name": "Tellabs",
+            "match": true
+        },
+        {
+            "name": "Tellabs Grants For Giving Program",
+            "match": true
+        },
+        {
+            "name": "Tellabs Inc.",
+            "match": true
+        },
+        {
+            "name": "Temple-Inland Foundation",
+            "match": true
+        },
+        {
+            "name": "Temple-Island Inc.",
+            "match": true
+        },
+        {
+            "name": "Tenet Healthcare Corp.",
+            "match": true
+        },
+        {
+            "name": "Tenet Healthcare Foundation",
+            "match": true
+        },
+        {
+            "name": "Tennant Company",
+            "match": true
+        },
+        {
+            "name": "Tenant Foundation",
+            "match": true
+        },
+        {
+            "name": "TENNAT",
+            "match": true
+        },
+        {
+            "name": "Tenneco Inc.",
+            "match": true
+        },
+        {
+            "name": "TEPPCO",
+            "match": true
+        },
+        {
+            "name": "Tesoro Corporation Contributions",
+            "match": true
+        },
+        {
+            "name": "Program",
+            "match": true
+        },
+        {
+            "name": "Tesoro, Hawaii",
+            "match": true
+        },
+        {
+            "name": "Tesoro Petroleum Corp.",
+            "match": true
+        },
+        {
+            "name": "Tetley USA Inc.",
+            "match": true
+        },
+        {
+            "name": "Texaco Foundation",
+            "match": true
+        },
+        {
+            "name": "Texas Commerce Bank",
+            "match": true
+        },
+        {
+            "name": "Texas Instruments Foundation",
+            "match": true
+        },
+        {
+            "name": "Texas Instruments Inc.",
+            "match": true
+        },
+        {
+            "name": "Textron Charitable Trust",
+            "match": true
+        },
+        {
+            "name": "Textron Inc.",
+            "match": true
+        },
+        {
+            "name": "Tektronix Foundation",
+            "match": true
+        },
+        {
+            "name": "Tektronix Foundaton Matching Gift Program",
+            "match": true
+        },
+        {
+            "name": "THAT Corp.",
+            "match": true
+        },
+        {
+            "name": "The N. American Coal Corp.",
+            "match": true
+        },
+        {
+            "name": "The St. Paul Co.",
+            "match": true
+        },
+        {
+            "name": "The Staley Works",
+            "match": true
+        },
+        {
+            "name": "Thomson Financial/Community Involvement",
+            "match": true
+        },
+        {
+            "name": "Thomson Media Town Sports International",
+            "match": true
+        },
+        {
+            "name": "Thomson Tax & Accounting",
+            "match": true
+        },
+        {
+            "name": "Thrivent Financial for Lutherans",
+            "match": true
+        },
+        {
+            "name": "Tiger Management Corporation",
+            "match": true
+        },
+        {
+            "name": "Time Inc",
+            "match": true
+        },
+        {
+            "name": "Time Warner Inc.",
+            "match": true
+        },
+        {
+            "name": "Times Mirror Co.",
+            "match": true
+        },
+        {
+            "name": "Tomkins Corp. Foundation",
+            "match": true
+        },
+        {
+            "name": "Tom's of Maine",
+            "match": true
+        },
+        {
+            "name": "Tootsie Roll Industries, Inc.",
+            "match": true
+        },
+        {
+            "name": "Toro Co.",
+            "match": true
+        },
+        {
+            "name": "Toro Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Total E&P USA Inc",
+            "match": true
+        },
+        {
+            "name": "Towers Perrin",
+            "match": true
+        },
+        {
+            "name": "T. Rowe Price",
+            "match": true
+        },
+        {
+            "name": "T. Rowe Price Associates Inc.",
+            "match": true
+        },
+        {
+            "name": "T. Rowe Price Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Transamerica Corp.",
+            "match": true
+        },
+        {
+            "name": "Transamerica Foundation",
+            "match": true
+        },
+        {
+            "name": "Transamerica Insurance Group",
+            "match": true
+        },
+        {
+            "name": "Transocean Offshore Deepwater Drilling Inc",
+            "match": true
+        },
+        {
+            "name": "TransWestern Publishing",
+            "match": true
+        },
+        {
+            "name": "Travelers Express Co. Inc",
+            "match": true
+        },
+        {
+            "name": "Tribune Company",
+            "match": true
+        },
+        {
+            "name": "Tricon Foundations",
+            "match": true
+        },
+        {
+            "name": "Tricon Global Restaurants, Inc.",
+            "match": true
+        },
+        {
+            "name": "TRW Foundation",
+            "match": true
+        },
+        {
+            "name": "TRW Inc.",
+            "match": true
+        },
+        {
+            "name": "Tupperware",
+            "match": true
+        },
+        {
+            "name": "Turner Investment Partners",
+            "match": true
+        },
+        {
+            "name": "TYCO",
+            "match": true
+        },
+        {
+            "name": "Tyco Healthcare/Mallinckrodt Corporate",
+            "match": true
+        },
+        {
+            "name": "Giving Program",
+            "match": true
+        },
+        {
+            "name": "Tyco International, Ltd.",
+            "match": true
+        },
+        {
+            "name": "Tyco Submarine Systems, Ltd.",
+            "match": true
+        },
+        {
+            "name": "U",
+            "match": true
+        },
+        {
+            "name": "UAM Charitable Foundation Inc.",
+            "match": true
+        },
+        {
+            "name": "UBS",
+            "match": true
+        },
+        {
+            "name": "UBS Foundation U.S.A.",
+            "match": true
+        },
+        {
+            "name": "UBS Matching Gift Program",
+            "match": true
+        },
+        {
+            "name": "UBS/PaineWebber",
+            "match": true
+        },
+        {
+            "name": "UGI Utilities Inc",
+            "match": true
+        },
+        {
+            "name": "Unibase Direct",
+            "match": true
+        },
+        {
+            "name": "Unified Foodservice Purch.",
+            "match": true
+        },
+        {
+            "name": "Unilever United States Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Unilever United States Inc.",
+            "match": true
+        },
+        {
+            "name": "Union Bank of California Foundation",
+            "match": true
+        },
+        {
+            "name": "Union Pacific Corp.",
+            "match": true
+        },
+        {
+            "name": "Union Pacific Fund",
+            "match": true
+        },
+        {
+            "name": "Union Texas Petroleum",
+            "match": true
+        },
+        {
+            "name": "Uniphase Corporation",
+            "match": true
+        },
+        {
+            "name": "Unisource Foundation",
+            "match": true
+        },
+        {
+            "name": "United Asset Management",
+            "match": true
+        },
+        {
+            "name": "United Business Media Community Connection Foundation",
+            "match": true
+        },
+        {
+            "name": "United Parcel Service",
+            "match": true
+        },
+        {
+            "name": "United Space Alliance",
+            "match": true
+        },
+        {
+            "name": "United Technologies",
+            "match": true
+        },
+        {
+            "name": "United Technologies Corp.",
+            "match": true
+        },
+        {
+            "name": "Unitrin Inc",
+            "match": true
+        },
+        {
+            "name": "Universal Music Group",
+            "match": true
+        },
+        {
+            "name": "Universal Studios",
+            "match": true
+        },
+        {
+            "name": "Universal Studios Hollywood",
+            "match": true
+        },
+        {
+            "name": "Unocal Foundation",
+            "match": true
+        },
+        {
+            "name": "UNUM Corp.",
+            "match": true
+        },
+        {
+            "name": "UnumProvident",
+            "match": true
+        },
+        {
+            "name": "UPS Foundation",
+            "match": true
+        },
+        {
+            "name": "US Bancorp",
+            "match": true
+        },
+        {
+            "name": "U.S. Bancorp Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "US Borax Inc.",
+            "match": true
+        },
+        {
+            "name": "US Cellular",
+            "match": true
+        },
+        {
+            "name": "U.S. Fidelity & Guaranty Corp.",
+            "match": true
+        },
+        {
+            "name": "US WEST Inc.",
+            "match": true
+        },
+        {
+            "name": "USA Networks Foundation, Inc",
+            "match": true
+        },
+        {
+            "name": "USAA Corporate Giving Program",
+            "match": true
+        },
+        {
+            "name": "USAA Property and Casualty Insurance",
+            "match": true
+        },
+        {
+            "name": "USG Corp.",
+            "match": true
+        },
+        {
+            "name": "USG Foundation Inc",
+            "match": true
+        },
+        {
+            "name": "US Mortgage Corporation",
+            "match": true
+        },
+        {
+            "name": "UtiliCorp United Inc",
+            "match": true
+        },
+        {
+            "name": "V",
+            "match": true
+        },
+        {
+            "name": "Valero Energy Corporation",
+            "match": true
+        },
+        {
+            "name": "Vanguard Group Inc.",
+            "match": true
+        },
+        {
+            "name": "Vastar Resources Inc",
+            "match": true
+        },
+        {
+            "name": "Veritas Software",
+            "match": true
+        },
+        {
+            "name": "Verizon Foundation",
+            "match": true
+        },
+        {
+            "name": "Verizon Foundation Volunteer Program",
+            "match": true
+        },
+        {
+            "name": "Vicorp",
+            "match": true
+        },
+        {
+            "name": "Virginia Power/North Carolina Power",
+            "match": true
+        },
+        {
+            "name": "Vivendi Universal",
+            "match": true
+        },
+        {
+            "name": "von Liebig Foundation, Inc., William J.,",
+            "match": true
+        },
+        {
+            "name": "The",
+            "match": true
+        },
+        {
+            "name": "Vulcan Materials Co.",
+            "match": true
+        },
+        {
+            "name": "W",
+            "match": true
+        },
+        {
+            "name": "Wachovia Foundation",
+            "match": true
+        },
+        {
+            "name": "Waitt Family Foundation",
+            "match": true
+        },
+        {
+            "name": "Walt Disney Co. Foundation",
+            "match": true
+        },
+        {
+            "name": "Warner-Lambert Co.",
+            "match": true
+        },
+        {
+            "name": "Warner Strategic Marketing",
+            "match": true
+        },
+        {
+            "name": "Washington Dental Servoce",
+            "match": true
+        },
+        {
+            "name": "Washington Mutual",
+            "match": true
+        },
+        {
+            "name": "Washington Mutual Foundation",
+            "match": true
+        },
+        {
+            "name": "Washington Mutual Inc.",
+            "match": true
+        },
+        {
+            "name": "Washington Mutual Wiley Rein & Fielding, LLP",
+            "match": true
+        },
+        {
+            "name": "Washington Post Co.",
+            "match": true
+        },
+        {
+            "name": "Wasser, Inc.",
+            "match": true
+        },
+        {
+            "name": "Waters Corp.",
+            "match": true
+        },
+        {
+            "name": "Weingart Foundation",
+            "match": true
+        },
+        {
+            "name": "Weitz Corporation",
+            "match": true
+        },
+        {
+            "name": "WellPoint",
+            "match": true
+        },
+        {
+            "name": "WellPoint Foundation, Inc.",
+            "match": true
+        },
+        {
+            "name": "Wells Fargo Foundation",
+            "match": true
+        },
+        {
+            "name": "Westar Energy Foundation",
+            "match": true
+        },
+        {
+            "name": "Weyerhaeuser Company Foundation",
+            "match": true
+        },
+        {
+            "name": "West Group",
+            "match": true
+        },
+        {
+            "name": "Westinghouse Electric Corporation",
+            "match": true
+        },
+        {
+            "name": "West Marine Products",
+            "match": true
+        },
+        {
+            "name": "WFSB/TV3",
+            "match": true
+        },
+        {
+            "name": "Whirlpool Corp.",
+            "match": true
+        },
+        {
+            "name": "Whirlpool Foundation",
+            "match": true
+        },
+        {
+            "name": "Whitaker Foundation",
+            "match": true
+        },
+        {
+            "name": "Whitman Corp.",
+            "match": true
+        },
+        {
+            "name": "The Willametta K. Day Foundation",
+            "match": true
+        },
+        {
+            "name": "Willbros Engineers Inc.",
+            "match": true
+        },
+        {
+            "name": "Willbros USA Inc.",
+            "match": true
+        },
+        {
+            "name": "Willdan Group of Companies",
+            "match": true
+        },
+        {
+            "name": "Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Williams",
+            "match": true
+        },
+        {
+            "name": "Williams Co., Inc.",
+            "match": true
+        },
+        {
+            "name": "Williams Community Relations World Travel BTI",
+            "match": true
+        },
+        {
+            "name": "Williams Company",
+            "match": true
+        },
+        {
+            "name": "The William Penn Foundation",
+            "match": true
+        },
+        {
+            "name": "WilTel Communications",
+            "match": true
+        },
+        {
+            "name": "Winn-Dixie Stores Inc.",
+            "match": true
+        },
+        {
+            "name": "Winter Wyman & Co.",
+            "match": true
+        },
+        {
+            "name": "Wisconsin Energy Corp.",
+            "match": true
+        },
+        {
+            "name": "Wisconsin Energy Corporation Foundation",
+            "match": true
+        },
+        {
+            "name": "Wisconsin Power & Light Co. Inc.",
+            "match": true
+        },
+        {
+            "name": "W. K. Kellogg Foundation",
+            "match": true
+        },
+        {
+            "name": "W.K. Kellogg Foundation Match Wachovia",
+            "match": true
+        },
+        {
+            "name": "W.M. Keck Foundation",
+            "match": true
+        },
+        {
+            "name": "WMX Technologies, Inc.",
+            "match": true
+        },
+        {
+            "name": "Woman's World",
+            "match": true
+        },
+        {
+            "name": "World Reach, Inc.",
+            "match": true
+        },
+        {
+            "name": "World Reach Inc/Hewlett-Packard Co Foundation",
+            "match": true
+        },
+        {
+            "name": "Words At Work Inc.",
+            "match": true
+        },
+        {
+            "name": "WordsWorth Books",
+            "match": true
+        },
+        {
+            "name": "WRQ",
+            "match": true
+        },
+        {
+            "name": "W. W. Grainger Inc.",
+            "match": true
+        },
+        {
+            "name": "Wyeth",
+            "match": true
+        },
+        {
+            "name": "X",
+            "match": true
+        },
+        {
+            "name": "Xcel Energy Foundation",
+            "match": true
+        },
+        {
+            "name": "Xerox",
+            "match": true
+        },
+        {
+            "name": "Xerox Corporation",
+            "match": true
+        },
+        {
+            "name": "Xerox Foundation, The",
+            "match": true
+        },
+        {
+            "name": "Xilinx",
+            "match": true
+        },
+        {
+            "name": "XTO Energy Inc",
+            "match": true
+        },
+        {
+            "name": "XTRA Corporation",
+            "match": true
+        },
+        {
+            "name": "Xtra Corp. Charitable Foundation",
+            "match": true
+        },
+        {
+            "name": "Y",
+            "match": true
+        },
+        {
+            "name": "Yahoo!",
+            "match": true
+        },
+        {
+            "name": "Yamaha Corporation of America",
+            "match": true
+        },
+        {
+            "name": "Corporate Giving Program",
+            "match": true
+        },
+        {
+            "name": "Yum! Brands Foundation Inc",
+            "match": true
+        },
+        {
+            "name": "Z",
+            "match": true
+        },
+        {
+            "name": "Zurich Reinsurance Center",
+            "match": true
+        },
+        {
+            "name": "Zurn Industries Inc.",
+            "match": true
+        },
+        {
+            "name": "The Above Information Provided By:",
+            "match": true
+        },
+        {
+            "name": "1. http://www.gsafweb.org/corporatematchin.html",
+            "match": true
+        },
+        {
+            "name": "2. http://209.237.160.150/bike/07/materials/MatchingCompanies.pdf",
+            "match": true
+        },
+        {
+            "name": "3. http://www.laguardia.cuny.edu/lagfoundation/forms/MatchingGiftPrograms.pdf",
+            "match": true
+        },
+        {
+            "name": "4. http://hammer.ucla.edu/support/matching_gift.html",
+            "match": true
+        },
+        {
+            "name": "5. www.nhnc.org/wp-content/uploads/microsoft-word-matching-gift-programs.pdf",
+            "match": true
+        },
+        {
+            "name": "6. http://www.around-n-over.org/corpmatching.htm",
+            "match": true
+        }
+    ]
+}
